@@ -1,0 +1,73 @@
+{
+  "rows": 39939,
+  "total_count": 4716905,
+  "counties": [
+    "Baranya vármegye",
+    "Borsod-Abaúj-Zemplén vármegye",
+    "Budapest",
+    "Bács-Kiskun vármegye",
+    "Békés vármegye",
+    "Csongrád-Csanád vármegye",
+    "Fejér vármegye",
+    "Győr-Moson-Sopron vármegye",
+    "Hajdú-Bihar vármegye",
+    "Heves vármegye",
+    "Jász-Nagykun-Szolnok vármegye",
+    "Komárom-Esztergom vármegye",
+    "Nógrád vármegye",
+    "Pest vármegye",
+    "Somogy vármegye",
+    "Szabolcs-Szatmár-Bereg vármegye",
+    "Tolna vármegye",
+    "Vas vármegye",
+    "Veszprém vármegye",
+    "Zala vármegye"
+  ],
+  "genders": [
+    "Férfi",
+    "Nő"
+  ],
+  "age_groups": [
+    "15–19 éves",
+    "20–24 éves",
+    "25–29 éves",
+    "30–34 éves",
+    "35–39 éves",
+    "40–44 éves",
+    "45–49 éves",
+    "50–54 éves",
+    "55–59 éves",
+    "60–64 éves",
+    "65–69 éves",
+    "70 éves és idősebb"
+  ],
+  "educations": [
+    "Egyetem, főiskola stb. oklevéllel",
+    "Középfokú iskola érettségi nélkül, szakmai oklevéllel",
+    "Általános iskola 8. évfolyam",
+    "Általános iskola 8. évfolyamnál alacsonyabb",
+    "Érettségi"
+  ],
+  "teaor_codes": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O",
+    "P",
+    "Q",
+    "R",
+    "S",
+    "T"
+  ]
+}
