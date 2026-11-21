@@ -1,0 +1,15 @@
+Agensek: 4,668,639
+Munkahellyel: 4,658,011
+Munkahely nelkul: 10,628
+Sajat varmegye: 3,418,219 (73.22%)
+KSH referencia sajat varmegye: 84.09%
+Celmegye megtartva: 3,945,484 (84.51%)
+Mas munkahelyi TEAOR: 1,427,385 (30.64%)
+Hianyzo FEOR: 0
+Kulonbozo FEOR-kodok: 455
+Megvaltozott eredeti agensadatok: {}
+Kapacitas feletti munkahelyek: 0
+Inkonzisztens workplace_size mezok: 0
+Fallback: {'1_target_same_teaor': 2924608, '2_target_any_teaor': 1020876, '3_home_county_same_teaor': 53555, '4_home_county_any_teaor': 34458, '5_other_county_same_teaor': 252463, '6_other_county_any_teaor': 372051, '8_missing': 10628}
+
+A FEOR megorzese nem bizonyitja a FEOR es a munkahely TEAOR szakmai osszhangjat.

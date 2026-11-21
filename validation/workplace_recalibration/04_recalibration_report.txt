@@ -1,0 +1,18 @@
+WORKPLACE COMPANY-SIZE COUNTY RECALIBRATION
+Input file: C:\Users\mshco\PycharmProjects\agent_generation\data\raw\generated_companies_calibrated.csv
+Output file: C:\Users\mshco\PycharmProjects\agent_generation\data\raw\generated_companies_county_calibrated_v2.csv
+Companies: 954,003
+Worker slots before: 4,658,011
+Worker slots after: 4,658,011
+Companies with changed size: 311,196
+Counties with exact KSH-scaled target: 20/20
+National TEAOR sector total L1 deviation (minimum achievable): 14,646
+Equivalent net sector slot transfers (L1/2): 7,323
+TEAOR subsectors with changed national slot count: 22
+Company rows, order, settlement, TEAOR, size-bin, and other fields: unchanged
+Individual company sizes: all within original size bins
+
+County targets use KSH *workplace* county counts normalized to the
+original total physical company slots, including HOME category in KSH.
+This is a modelling decision consistent with the current spring V3
+workflow; it does not separately model workers working from home.
