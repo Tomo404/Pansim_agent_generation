@@ -1,0 +1,23 @@
+COMMUTING MATRIX V2 - KSH ELLENORZES
+
+Excel: C:\Users\mshco\PycharmProjects\agent_generation\data\raw\hier_foglalkoztatott_ingazas.xlsx
+Forras osszesen: 4,718,660
+Belfoldi dolgozok: 4,596,079 (vart: 4,596,079)
+Kulfoldi dolgozok: 122,581 (vart: 122,581)
+Megyehez rendelheto belfoldi: 4,596,079
+Fix munkahely-kategoria: 4,326,451
+Valtozo telepulesen dolgozik: 269,628
+Sajat telepulesen vagy otthon dolgozik: 2,745,046 (58.17% az osszesbol)
+Sajat MEGYEBEN dolgozik: 3,864,641 (84.09%)
+
+IRANY OSSZEHASONLITASA:
+Pest -> Budapest: regi=61,880, uj=257,369
+Budapest -> Pest: regi=257,369, uj=61,880
+
+Kulfoldinek jelolt, de D nem Kulfold: 0
+Belfoldi kategoria, de D nem magyar megye: 0
+Helyben dolgozik, de eltero megye: 0
+
+FIGYELEM: a 04-es es 05-os fajl meg ellenorzesi kimenet.
+A kovetkezo kiosztasi kodhoz csak a validacio utan kotjuk.
+A valtozo munkahelyu dolgozokat kulon kell kezelni.

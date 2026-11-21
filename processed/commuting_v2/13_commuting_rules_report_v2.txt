@@ -1,0 +1,19 @@
+COMMUTING RULES V2
+
+KSH csoportok: 58
+Belfoldi dolgozok: 4,596,079
+Kulfoldi dolgozok: 122,581
+
+HOME: 317,245
+LOCAL: 2,427,801
+COMMUTER: 1,581,405
+VARIABLE: 269,628
+
+Ingázók azonos megye mas telepulesere: 968,262
+Ingázók mas megyebe: 613,143
+
+02 vs 03: OK
+02 vs 04: OK
+29d / 144 nem szerepel a bemenetek kozott.
+
+A tenyleges munkahelykiosztas meg hatravan.

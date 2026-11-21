@@ -1,0 +1,33 @@
+WORKPLACE CAPACITY V2
+Ellenőrzés - nem újragenerálás
+
+Nyári lakóhelyi KSH-területek: 3,177
+Nyári belföldi dolgozók: 4,596,079
+Elvárt belföldi dolgozók: 4,596,079
+Feloldatlan lakóhely-KSH-k: 0
+
+Eredeti munkahelyek: 954,003
+Eredeti munkahelykapacitás: 4,658,011
+Településre feloldott kapacitás: 4,639,748
+Feloldatlan munkahelykapacitás: 18,263
+
+Becsült HOME: 316,995
+Becsült LOCAL: 2,425,178
+Becsült COMMUTER: 1,584,183
+Becsült VARIABLE: 269,723
+
+LOCAL hiány csak a feloldott kapacitás alapján:
+141,266
+
+County x settlement_type helyett county fallback:
+0 dolgozó
+
+FONTOS MEGJEGYZÉSEK:
+- A települési ingázási kategóriák becslések.
+- Az eredeti KSH-tábla vármegye és településtípus szerinti.
+- A helyi kapacitás felső korlát, nem kész hozzárendelés.
+- A feloldatlan településnevek torzíthatják a hiánybecslést.
+- Az otthon dolgozók fizikai slot nélküli kezelése modellfeltevés.
+- A változó településen dolgozók kiosztása utoljára történne.
+- TEÁOR szerint itt csak a munkahelyi kínálatot mérjük.
+- Az eredeti fájlok változatlanok.

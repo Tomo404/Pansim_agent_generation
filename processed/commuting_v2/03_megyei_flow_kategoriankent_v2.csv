@@ -1,0 +1,860 @@
+﻿residence_county,workplace_county,ingazas_tipus,count
+Baranya vármegye,Baranya vármegye,Lakóhely településén foglalkoztatott,89601
+Baranya vármegye,Baranya vármegye,Lakóhelyén foglalkoztatott,9882
+Baranya vármegye,Baranya vármegye,Más magyarországi településen foglalkoztatott,43986
+Baranya vármegye,Baranya vármegye,Változó településen foglalkoztatott,5891
+Baranya vármegye,Borsod-Abaúj-Zemplén vármegye,Más magyarországi településen foglalkoztatott,37
+Baranya vármegye,Borsod-Abaúj-Zemplén vármegye,Változó településen foglalkoztatott,27
+Baranya vármegye,Budapest,Más magyarországi településen foglalkoztatott,2968
+Baranya vármegye,Budapest,Változó településen foglalkoztatott,1081
+Baranya vármegye,Bács-Kiskun vármegye,Más magyarországi településen foglalkoztatott,312
+Baranya vármegye,Bács-Kiskun vármegye,Változó településen foglalkoztatott,134
+Baranya vármegye,Békés vármegye,Más magyarországi településen foglalkoztatott,16
+Baranya vármegye,Békés vármegye,Változó településen foglalkoztatott,10
+Baranya vármegye,Csongrád-Csanád vármegye,Más magyarországi településen foglalkoztatott,105
+Baranya vármegye,Csongrád-Csanád vármegye,Változó településen foglalkoztatott,58
+Baranya vármegye,Fejér vármegye,Más magyarországi településen foglalkoztatott,213
+Baranya vármegye,Fejér vármegye,Változó településen foglalkoztatott,71
+Baranya vármegye,Győr-Moson-Sopron vármegye,Más magyarországi településen foglalkoztatott,289
+Baranya vármegye,Győr-Moson-Sopron vármegye,Változó településen foglalkoztatott,88
+Baranya vármegye,Hajdú-Bihar vármegye,Más magyarországi településen foglalkoztatott,25
+Baranya vármegye,Hajdú-Bihar vármegye,Változó településen foglalkoztatott,38
+Baranya vármegye,Heves vármegye,Más magyarországi településen foglalkoztatott,65
+Baranya vármegye,Heves vármegye,Változó településen foglalkoztatott,25
+Baranya vármegye,Jász-Nagykun-Szolnok vármegye,Más magyarországi településen foglalkoztatott,41
+Baranya vármegye,Jász-Nagykun-Szolnok vármegye,Változó településen foglalkoztatott,26
+Baranya vármegye,Komárom-Esztergom vármegye,Más magyarországi településen foglalkoztatott,118
+Baranya vármegye,Komárom-Esztergom vármegye,Változó településen foglalkoztatott,48
+Baranya vármegye,Külföld,Külföldön foglalkoztatott,4403
+Baranya vármegye,Nógrád vármegye,Más magyarországi településen foglalkoztatott,4
+Baranya vármegye,Nógrád vármegye,Változó településen foglalkoztatott,8
+Baranya vármegye,Pest vármegye,Más magyarországi településen foglalkoztatott,418
+Baranya vármegye,Pest vármegye,Változó településen foglalkoztatott,322
+Baranya vármegye,Somogy vármegye,Más magyarországi településen foglalkoztatott,1104
+Baranya vármegye,Somogy vármegye,Változó településen foglalkoztatott,266
+Baranya vármegye,Szabolcs-Szatmár-Bereg vármegye,Más magyarországi településen foglalkoztatott,18
+Baranya vármegye,Szabolcs-Szatmár-Bereg vármegye,Változó településen foglalkoztatott,9
+Baranya vármegye,Tolna vármegye,Más magyarországi településen foglalkoztatott,2639
+Baranya vármegye,Tolna vármegye,Változó településen foglalkoztatott,496
+Baranya vármegye,Vas vármegye,Más magyarországi településen foglalkoztatott,94
+Baranya vármegye,Vas vármegye,Változó településen foglalkoztatott,42
+Baranya vármegye,Veszprém vármegye,Más magyarországi településen foglalkoztatott,153
+Baranya vármegye,Veszprém vármegye,Változó településen foglalkoztatott,66
+Baranya vármegye,Zala vármegye,Más magyarországi településen foglalkoztatott,124
+Baranya vármegye,Zala vármegye,Változó településen foglalkoztatott,67
+Borsod-Abaúj-Zemplén vármegye,Baranya vármegye,Más magyarországi településen foglalkoztatott,117
+Borsod-Abaúj-Zemplén vármegye,Baranya vármegye,Változó településen foglalkoztatott,51
+Borsod-Abaúj-Zemplén vármegye,Borsod-Abaúj-Zemplén vármegye,Lakóhely településén foglalkoztatott,134628
+Borsod-Abaúj-Zemplén vármegye,Borsod-Abaúj-Zemplén vármegye,Lakóhelyén foglalkoztatott,13266
+Borsod-Abaúj-Zemplén vármegye,Borsod-Abaúj-Zemplén vármegye,Más magyarországi településen foglalkoztatott,83059
+Borsod-Abaúj-Zemplén vármegye,Borsod-Abaúj-Zemplén vármegye,Változó településen foglalkoztatott,9239
+Borsod-Abaúj-Zemplén vármegye,Budapest,Más magyarországi településen foglalkoztatott,8874
+Borsod-Abaúj-Zemplén vármegye,Budapest,Változó településen foglalkoztatott,2513
+Borsod-Abaúj-Zemplén vármegye,Bács-Kiskun vármegye,Más magyarországi településen foglalkoztatott,193
+Borsod-Abaúj-Zemplén vármegye,Bács-Kiskun vármegye,Változó településen foglalkoztatott,114
+Borsod-Abaúj-Zemplén vármegye,Békés vármegye,Más magyarországi településen foglalkoztatott,63
+Borsod-Abaúj-Zemplén vármegye,Békés vármegye,Változó településen foglalkoztatott,24
+Borsod-Abaúj-Zemplén vármegye,Csongrád-Csanád vármegye,Más magyarországi településen foglalkoztatott,104
+Borsod-Abaúj-Zemplén vármegye,Csongrád-Csanád vármegye,Változó településen foglalkoztatott,70
+Borsod-Abaúj-Zemplén vármegye,Fejér vármegye,Más magyarországi településen foglalkoztatott,315
+Borsod-Abaúj-Zemplén vármegye,Fejér vármegye,Változó településen foglalkoztatott,120
+Borsod-Abaúj-Zemplén vármegye,Győr-Moson-Sopron vármegye,Más magyarországi településen foglalkoztatott,508
+Borsod-Abaúj-Zemplén vármegye,Győr-Moson-Sopron vármegye,Változó településen foglalkoztatott,199
+Borsod-Abaúj-Zemplén vármegye,Hajdú-Bihar vármegye,Más magyarországi településen foglalkoztatott,1390
+Borsod-Abaúj-Zemplén vármegye,Hajdú-Bihar vármegye,Változó településen foglalkoztatott,329
+Borsod-Abaúj-Zemplén vármegye,Heves vármegye,Más magyarországi településen foglalkoztatott,4633
+Borsod-Abaúj-Zemplén vármegye,Heves vármegye,Változó településen foglalkoztatott,739
+Borsod-Abaúj-Zemplén vármegye,Jász-Nagykun-Szolnok vármegye,Más magyarországi településen foglalkoztatott,245
+Borsod-Abaúj-Zemplén vármegye,Jász-Nagykun-Szolnok vármegye,Változó településen foglalkoztatott,97
+Borsod-Abaúj-Zemplén vármegye,Komárom-Esztergom vármegye,Más magyarországi településen foglalkoztatott,333
+Borsod-Abaúj-Zemplén vármegye,Komárom-Esztergom vármegye,Változó településen foglalkoztatott,126
+Borsod-Abaúj-Zemplén vármegye,Külföld,Külföldön foglalkoztatott,7866
+Borsod-Abaúj-Zemplén vármegye,Nógrád vármegye,Más magyarországi településen foglalkoztatott,169
+Borsod-Abaúj-Zemplén vármegye,Nógrád vármegye,Változó településen foglalkoztatott,29
+Borsod-Abaúj-Zemplén vármegye,Pest vármegye,Más magyarországi településen foglalkoztatott,1726
+Borsod-Abaúj-Zemplén vármegye,Pest vármegye,Változó településen foglalkoztatott,762
+Borsod-Abaúj-Zemplén vármegye,Somogy vármegye,Más magyarországi településen foglalkoztatott,109
+Borsod-Abaúj-Zemplén vármegye,Somogy vármegye,Változó településen foglalkoztatott,38
+Borsod-Abaúj-Zemplén vármegye,Szabolcs-Szatmár-Bereg vármegye,Más magyarországi településen foglalkoztatott,1045
+Borsod-Abaúj-Zemplén vármegye,Szabolcs-Szatmár-Bereg vármegye,Változó településen foglalkoztatott,255
+Borsod-Abaúj-Zemplén vármegye,Tolna vármegye,Más magyarországi településen foglalkoztatott,46
+Borsod-Abaúj-Zemplén vármegye,Tolna vármegye,Változó településen foglalkoztatott,40
+Borsod-Abaúj-Zemplén vármegye,Vas vármegye,Más magyarországi településen foglalkoztatott,87
+Borsod-Abaúj-Zemplén vármegye,Vas vármegye,Változó településen foglalkoztatott,36
+Borsod-Abaúj-Zemplén vármegye,Veszprém vármegye,Más magyarországi településen foglalkoztatott,186
+Borsod-Abaúj-Zemplén vármegye,Veszprém vármegye,Változó településen foglalkoztatott,72
+Borsod-Abaúj-Zemplén vármegye,Zala vármegye,Más magyarországi településen foglalkoztatott,83
+Borsod-Abaúj-Zemplén vármegye,Zala vármegye,Változó településen foglalkoztatott,44
+Budapest,Baranya vármegye,Más magyarországi településen foglalkoztatott,531
+Budapest,Baranya vármegye,Változó településen foglalkoztatott,215
+Budapest,Borsod-Abaúj-Zemplén vármegye,Más magyarországi településen foglalkoztatott,797
+Budapest,Borsod-Abaúj-Zemplén vármegye,Változó településen foglalkoztatott,373
+Budapest,Budapest,Lakóhely településén foglalkoztatott,692217
+Budapest,Budapest,Lakóhelyén foglalkoztatott,88843
+Budapest,Budapest,Változó településen foglalkoztatott,38901
+Budapest,Bács-Kiskun vármegye,Más magyarországi településen foglalkoztatott,939
+Budapest,Bács-Kiskun vármegye,Változó településen foglalkoztatott,404
+Budapest,Békés vármegye,Más magyarországi településen foglalkoztatott,263
+Budapest,Békés vármegye,Változó településen foglalkoztatott,144
+Budapest,Csongrád-Csanád vármegye,Más magyarországi településen foglalkoztatott,537
+Budapest,Csongrád-Csanád vármegye,Változó településen foglalkoztatott,215
+Budapest,Fejér vármegye,Más magyarországi településen foglalkoztatott,2645
+Budapest,Fejér vármegye,Változó településen foglalkoztatott,758
+Budapest,Győr-Moson-Sopron vármegye,Más magyarországi településen foglalkoztatott,920
+Budapest,Győr-Moson-Sopron vármegye,Változó településen foglalkoztatott,353
+Budapest,Hajdú-Bihar vármegye,Más magyarországi településen foglalkoztatott,513
+Budapest,Hajdú-Bihar vármegye,Változó településen foglalkoztatott,263
+Budapest,Heves vármegye,Más magyarországi településen foglalkoztatott,1230
+Budapest,Heves vármegye,Változó településen foglalkoztatott,299
+Budapest,Jász-Nagykun-Szolnok vármegye,Más magyarországi településen foglalkoztatott,681
+Budapest,Jász-Nagykun-Szolnok vármegye,Változó településen foglalkoztatott,234
+Budapest,Komárom-Esztergom vármegye,Más magyarországi településen foglalkoztatott,1602
+Budapest,Komárom-Esztergom vármegye,Változó településen foglalkoztatott,423
+Budapest,Külföld,Külföldön foglalkoztatott,12118
+Budapest,Nógrád vármegye,Más magyarországi településen foglalkoztatott,409
+Budapest,Nógrád vármegye,Változó településen foglalkoztatott,177
+Budapest,Pest vármegye,Más magyarországi településen foglalkoztatott,53105
+Budapest,Pest vármegye,Változó településen foglalkoztatott,8775
+Budapest,Somogy vármegye,Más magyarországi településen foglalkoztatott,657
+Budapest,Somogy vármegye,Változó településen foglalkoztatott,278
+Budapest,Szabolcs-Szatmár-Bereg vármegye,Más magyarországi településen foglalkoztatott,390
+Budapest,Szabolcs-Szatmár-Bereg vármegye,Változó településen foglalkoztatott,245
+Budapest,Tolna vármegye,Más magyarországi településen foglalkoztatott,320
+Budapest,Tolna vármegye,Változó településen foglalkoztatott,127
+Budapest,Vas vármegye,Más magyarországi településen foglalkoztatott,295
+Budapest,Vas vármegye,Változó településen foglalkoztatott,141
+Budapest,Veszprém vármegye,Más magyarországi településen foglalkoztatott,1008
+Budapest,Veszprém vármegye,Változó településen foglalkoztatott,387
+Budapest,Zala vármegye,Más magyarországi településen foglalkoztatott,357
+Budapest,Zala vármegye,Változó településen foglalkoztatott,177
+Bács-Kiskun vármegye,Baranya vármegye,Más magyarországi településen foglalkoztatott,407
+Bács-Kiskun vármegye,Baranya vármegye,Változó településen foglalkoztatott,140
+Bács-Kiskun vármegye,Borsod-Abaúj-Zemplén vármegye,Más magyarországi településen foglalkoztatott,67
+Bács-Kiskun vármegye,Borsod-Abaúj-Zemplén vármegye,Változó településen foglalkoztatott,53
+Bács-Kiskun vármegye,Budapest,Más magyarországi településen foglalkoztatott,7790
+Bács-Kiskun vármegye,Budapest,Változó településen foglalkoztatott,2022
+Bács-Kiskun vármegye,Bács-Kiskun vármegye,Lakóhely településén foglalkoztatott,136615
+Bács-Kiskun vármegye,Bács-Kiskun vármegye,Lakóhelyén foglalkoztatott,15035
+Bács-Kiskun vármegye,Bács-Kiskun vármegye,Más magyarországi településen foglalkoztatott,48700
+Bács-Kiskun vármegye,Bács-Kiskun vármegye,Változó településen foglalkoztatott,6245
+Bács-Kiskun vármegye,Békés vármegye,Más magyarországi településen foglalkoztatott,113
+Bács-Kiskun vármegye,Békés vármegye,Változó településen foglalkoztatott,48
+Bács-Kiskun vármegye,Csongrád-Csanád vármegye,Más magyarországi településen foglalkoztatott,2821
+Bács-Kiskun vármegye,Csongrád-Csanád vármegye,Változó településen foglalkoztatott,543
+Bács-Kiskun vármegye,Fejér vármegye,Más magyarországi településen foglalkoztatott,2000
+Bács-Kiskun vármegye,Fejér vármegye,Változó településen foglalkoztatott,238
+Bács-Kiskun vármegye,Győr-Moson-Sopron vármegye,Más magyarországi településen foglalkoztatott,231
+Bács-Kiskun vármegye,Győr-Moson-Sopron vármegye,Változó településen foglalkoztatott,119
+Bács-Kiskun vármegye,Hajdú-Bihar vármegye,Más magyarországi településen foglalkoztatott,83
+Bács-Kiskun vármegye,Hajdú-Bihar vármegye,Változó településen foglalkoztatott,48
+Bács-Kiskun vármegye,Heves vármegye,Más magyarországi településen foglalkoztatott,91
+Bács-Kiskun vármegye,Heves vármegye,Változó településen foglalkoztatott,29
+Bács-Kiskun vármegye,Jász-Nagykun-Szolnok vármegye,Más magyarországi településen foglalkoztatott,541
+Bács-Kiskun vármegye,Jász-Nagykun-Szolnok vármegye,Változó településen foglalkoztatott,130
+Bács-Kiskun vármegye,Komárom-Esztergom vármegye,Más magyarországi településen foglalkoztatott,183
+Bács-Kiskun vármegye,Komárom-Esztergom vármegye,Változó településen foglalkoztatott,103
+Bács-Kiskun vármegye,Külföld,Külföldön foglalkoztatott,4258
+Bács-Kiskun vármegye,Nógrád vármegye,Más magyarországi településen foglalkoztatott,41
+Bács-Kiskun vármegye,Nógrád vármegye,Változó településen foglalkoztatott,17
+Bács-Kiskun vármegye,Pest vármegye,Más magyarországi településen foglalkoztatott,4125
+Bács-Kiskun vármegye,Pest vármegye,Változó településen foglalkoztatott,858
+Bács-Kiskun vármegye,Somogy vármegye,Más magyarországi településen foglalkoztatott,146
+Bács-Kiskun vármegye,Somogy vármegye,Változó településen foglalkoztatott,71
+Bács-Kiskun vármegye,Szabolcs-Szatmár-Bereg vármegye,Más magyarországi településen foglalkoztatott,31
+Bács-Kiskun vármegye,Szabolcs-Szatmár-Bereg vármegye,Változó településen foglalkoztatott,36
+Bács-Kiskun vármegye,Tolna vármegye,Más magyarországi településen foglalkoztatott,1279
+Bács-Kiskun vármegye,Tolna vármegye,Változó településen foglalkoztatott,224
+Bács-Kiskun vármegye,Vas vármegye,Más magyarországi településen foglalkoztatott,45
+Bács-Kiskun vármegye,Vas vármegye,Változó településen foglalkoztatott,23
+Bács-Kiskun vármegye,Veszprém vármegye,Más magyarországi településen foglalkoztatott,173
+Bács-Kiskun vármegye,Veszprém vármegye,Változó településen foglalkoztatott,70
+Bács-Kiskun vármegye,Zala vármegye,Más magyarországi településen foglalkoztatott,60
+Bács-Kiskun vármegye,Zala vármegye,Változó településen foglalkoztatott,56
+Békés vármegye,Baranya vármegye,Más magyarországi településen foglalkoztatott,57
+Békés vármegye,Baranya vármegye,Változó településen foglalkoztatott,31
+Békés vármegye,Borsod-Abaúj-Zemplén vármegye,Más magyarországi településen foglalkoztatott,73
+Békés vármegye,Borsod-Abaúj-Zemplén vármegye,Változó településen foglalkoztatott,39
+Békés vármegye,Budapest,Más magyarországi településen foglalkoztatott,3943
+Békés vármegye,Budapest,Változó településen foglalkoztatott,1136
+Békés vármegye,Bács-Kiskun vármegye,Más magyarországi településen foglalkoztatott,477
+Békés vármegye,Bács-Kiskun vármegye,Változó településen foglalkoztatott,229
+Békés vármegye,Békés vármegye,Lakóhely településén foglalkoztatott,86332
+Békés vármegye,Békés vármegye,Lakóhelyén foglalkoztatott,7768
+Békés vármegye,Békés vármegye,Más magyarországi településen foglalkoztatott,31516
+Békés vármegye,Békés vármegye,Változó településen foglalkoztatott,3597
+Békés vármegye,Csongrád-Csanád vármegye,Más magyarországi településen foglalkoztatott,3709
+Békés vármegye,Csongrád-Csanád vármegye,Változó településen foglalkoztatott,599
+Békés vármegye,Fejér vármegye,Más magyarországi településen foglalkoztatott,121
+Békés vármegye,Fejér vármegye,Változó településen foglalkoztatott,45
+Békés vármegye,Győr-Moson-Sopron vármegye,Más magyarországi településen foglalkoztatott,322
+Békés vármegye,Győr-Moson-Sopron vármegye,Változó településen foglalkoztatott,94
+Békés vármegye,Hajdú-Bihar vármegye,Más magyarországi településen foglalkoztatott,501
+Békés vármegye,Hajdú-Bihar vármegye,Változó településen foglalkoztatott,188
+Békés vármegye,Heves vármegye,Más magyarországi településen foglalkoztatott,88
+Békés vármegye,Heves vármegye,Változó településen foglalkoztatott,31
+Békés vármegye,Jász-Nagykun-Szolnok vármegye,Más magyarországi településen foglalkoztatott,1082
+Békés vármegye,Jász-Nagykun-Szolnok vármegye,Változó településen foglalkoztatott,196
+Békés vármegye,Komárom-Esztergom vármegye,Más magyarországi településen foglalkoztatott,194
+Békés vármegye,Komárom-Esztergom vármegye,Változó településen foglalkoztatott,42
+Békés vármegye,Külföld,Külföldön foglalkoztatott,3030
+Békés vármegye,Nógrád vármegye,Más magyarországi településen foglalkoztatott,24
+Békés vármegye,Nógrád vármegye,Változó településen foglalkoztatott,10
+Békés vármegye,Pest vármegye,Más magyarországi településen foglalkoztatott,821
+Békés vármegye,Pest vármegye,Változó településen foglalkoztatott,395
+Békés vármegye,Somogy vármegye,Más magyarországi településen foglalkoztatott,75
+Békés vármegye,Somogy vármegye,Változó településen foglalkoztatott,26
+Békés vármegye,Szabolcs-Szatmár-Bereg vármegye,Más magyarországi településen foglalkoztatott,38
+Békés vármegye,Szabolcs-Szatmár-Bereg vármegye,Változó településen foglalkoztatott,29
+Békés vármegye,Tolna vármegye,Más magyarországi településen foglalkoztatott,22
+Békés vármegye,Tolna vármegye,Változó településen foglalkoztatott,20
+Békés vármegye,Vas vármegye,Más magyarországi településen foglalkoztatott,45
+Békés vármegye,Vas vármegye,Változó településen foglalkoztatott,23
+Békés vármegye,Veszprém vármegye,Más magyarországi településen foglalkoztatott,149
+Békés vármegye,Veszprém vármegye,Változó településen foglalkoztatott,39
+Békés vármegye,Zala vármegye,Más magyarországi településen foglalkoztatott,37
+Békés vármegye,Zala vármegye,Változó településen foglalkoztatott,25
+Csongrád-Csanád vármegye,Baranya vármegye,Más magyarországi településen foglalkoztatott,127
+Csongrád-Csanád vármegye,Baranya vármegye,Változó településen foglalkoztatott,48
+Csongrád-Csanád vármegye,Borsod-Abaúj-Zemplén vármegye,Más magyarországi településen foglalkoztatott,62
+Csongrád-Csanád vármegye,Borsod-Abaúj-Zemplén vármegye,Változó településen foglalkoztatott,38
+Csongrád-Csanád vármegye,Budapest,Más magyarországi településen foglalkoztatott,3836
+Csongrád-Csanád vármegye,Budapest,Változó településen foglalkoztatott,1377
+Csongrád-Csanád vármegye,Bács-Kiskun vármegye,Más magyarországi településen foglalkoztatott,2582
+Csongrád-Csanád vármegye,Bács-Kiskun vármegye,Változó településen foglalkoztatott,555
+Csongrád-Csanád vármegye,Békés vármegye,Más magyarországi településen foglalkoztatott,1246
+Csongrád-Csanád vármegye,Békés vármegye,Változó településen foglalkoztatott,235
+Csongrád-Csanád vármegye,Csongrád-Csanád vármegye,Lakóhely településén foglalkoztatott,116558
+Csongrád-Csanád vármegye,Csongrád-Csanád vármegye,Lakóhelyén foglalkoztatott,13631
+Csongrád-Csanád vármegye,Csongrád-Csanád vármegye,Más magyarországi településen foglalkoztatott,39633
+Csongrád-Csanád vármegye,Csongrád-Csanád vármegye,Változó településen foglalkoztatott,4775
+Csongrád-Csanád vármegye,Fejér vármegye,Más magyarországi településen foglalkoztatott,115
+Csongrád-Csanád vármegye,Fejér vármegye,Változó településen foglalkoztatott,64
+Csongrád-Csanád vármegye,Győr-Moson-Sopron vármegye,Más magyarországi településen foglalkoztatott,161
+Csongrád-Csanád vármegye,Győr-Moson-Sopron vármegye,Változó településen foglalkoztatott,96
+Csongrád-Csanád vármegye,Hajdú-Bihar vármegye,Más magyarországi településen foglalkoztatott,84
+Csongrád-Csanád vármegye,Hajdú-Bihar vármegye,Változó településen foglalkoztatott,59
+Csongrád-Csanád vármegye,Heves vármegye,Más magyarországi településen foglalkoztatott,58
+Csongrád-Csanád vármegye,Heves vármegye,Változó településen foglalkoztatott,26
+Csongrád-Csanád vármegye,Jász-Nagykun-Szolnok vármegye,Más magyarországi településen foglalkoztatott,234
+Csongrád-Csanád vármegye,Jász-Nagykun-Szolnok vármegye,Változó településen foglalkoztatott,85
+Csongrád-Csanád vármegye,Komárom-Esztergom vármegye,Más magyarországi településen foglalkoztatott,119
+Csongrád-Csanád vármegye,Komárom-Esztergom vármegye,Változó településen foglalkoztatott,55
+Csongrád-Csanád vármegye,Külföld,Külföldön foglalkoztatott,2876
+Csongrád-Csanád vármegye,Nógrád vármegye,Más magyarországi településen foglalkoztatott,12
+Csongrád-Csanád vármegye,Nógrád vármegye,Változó településen foglalkoztatott,10
+Csongrád-Csanád vármegye,Pest vármegye,Más magyarországi településen foglalkoztatott,692
+Csongrád-Csanád vármegye,Pest vármegye,Változó településen foglalkoztatott,495
+Csongrád-Csanád vármegye,Somogy vármegye,Más magyarországi településen foglalkoztatott,103
+Csongrád-Csanád vármegye,Somogy vármegye,Változó településen foglalkoztatott,30
+Csongrád-Csanád vármegye,Szabolcs-Szatmár-Bereg vármegye,Más magyarországi településen foglalkoztatott,26
+Csongrád-Csanád vármegye,Szabolcs-Szatmár-Bereg vármegye,Változó településen foglalkoztatott,28
+Csongrád-Csanád vármegye,Tolna vármegye,Más magyarországi településen foglalkoztatott,51
+Csongrád-Csanád vármegye,Tolna vármegye,Változó településen foglalkoztatott,24
+Csongrád-Csanád vármegye,Vas vármegye,Más magyarországi településen foglalkoztatott,41
+Csongrád-Csanád vármegye,Vas vármegye,Változó településen foglalkoztatott,23
+Csongrád-Csanád vármegye,Veszprém vármegye,Más magyarországi településen foglalkoztatott,147
+Csongrád-Csanád vármegye,Veszprém vármegye,Változó településen foglalkoztatott,44
+Csongrád-Csanád vármegye,Zala vármegye,Más magyarországi településen foglalkoztatott,40
+Csongrád-Csanád vármegye,Zala vármegye,Változó településen foglalkoztatott,37
+Fejér vármegye,Baranya vármegye,Más magyarországi településen foglalkoztatott,186
+Fejér vármegye,Baranya vármegye,Változó településen foglalkoztatott,83
+Fejér vármegye,Borsod-Abaúj-Zemplén vármegye,Más magyarországi településen foglalkoztatott,84
+Fejér vármegye,Borsod-Abaúj-Zemplén vármegye,Változó településen foglalkoztatott,47
+Fejér vármegye,Budapest,Más magyarországi településen foglalkoztatott,18525
+Fejér vármegye,Budapest,Változó településen foglalkoztatott,3422
+Fejér vármegye,Bács-Kiskun vármegye,Más magyarországi településen foglalkoztatott,499
+Fejér vármegye,Bács-Kiskun vármegye,Változó településen foglalkoztatott,145
+Fejér vármegye,Békés vármegye,Más magyarországi településen foglalkoztatott,36
+Fejér vármegye,Békés vármegye,Változó településen foglalkoztatott,23
+Fejér vármegye,Csongrád-Csanád vármegye,Más magyarországi településen foglalkoztatott,91
+Fejér vármegye,Csongrád-Csanád vármegye,Változó településen foglalkoztatott,52
+Fejér vármegye,Fejér vármegye,Lakóhely településén foglalkoztatott,86122
+Fejér vármegye,Fejér vármegye,Lakóhelyén foglalkoztatott,12517
+Fejér vármegye,Fejér vármegye,Más magyarországi településen foglalkoztatott,59122
+Fejér vármegye,Fejér vármegye,Változó településen foglalkoztatott,6059
+Fejér vármegye,Győr-Moson-Sopron vármegye,Más magyarországi településen foglalkoztatott,551
+Fejér vármegye,Győr-Moson-Sopron vármegye,Változó településen foglalkoztatott,162
+Fejér vármegye,Hajdú-Bihar vármegye,Más magyarországi településen foglalkoztatott,53
+Fejér vármegye,Hajdú-Bihar vármegye,Változó településen foglalkoztatott,49
+Fejér vármegye,Heves vármegye,Más magyarországi településen foglalkoztatott,63
+Fejér vármegye,Heves vármegye,Változó településen foglalkoztatott,27
+Fejér vármegye,Jász-Nagykun-Szolnok vármegye,Más magyarországi településen foglalkoztatott,62
+Fejér vármegye,Jász-Nagykun-Szolnok vármegye,Változó településen foglalkoztatott,35
+Fejér vármegye,Komárom-Esztergom vármegye,Más magyarországi településen foglalkoztatott,2400
+Fejér vármegye,Komárom-Esztergom vármegye,Változó településen foglalkoztatott,414
+Fejér vármegye,Külföld,Külföldön foglalkoztatott,2917
+Fejér vármegye,Nógrád vármegye,Más magyarországi településen foglalkoztatott,28
+Fejér vármegye,Nógrád vármegye,Változó településen foglalkoztatott,20
+Fejér vármegye,Pest vármegye,Más magyarországi településen foglalkoztatott,10696
+Fejér vármegye,Pest vármegye,Változó településen foglalkoztatott,1662
+Fejér vármegye,Somogy vármegye,Más magyarországi településen foglalkoztatott,1202
+Fejér vármegye,Somogy vármegye,Változó településen foglalkoztatott,258
+Fejér vármegye,Szabolcs-Szatmár-Bereg vármegye,Más magyarországi településen foglalkoztatott,43
+Fejér vármegye,Szabolcs-Szatmár-Bereg vármegye,Változó településen foglalkoztatott,47
+Fejér vármegye,Tolna vármegye,Más magyarországi településen foglalkoztatott,1206
+Fejér vármegye,Tolna vármegye,Változó településen foglalkoztatott,258
+Fejér vármegye,Vas vármegye,Más magyarországi településen foglalkoztatott,63
+Fejér vármegye,Vas vármegye,Változó településen foglalkoztatott,35
+Fejér vármegye,Veszprém vármegye,Más magyarországi településen foglalkoztatott,1849
+Fejér vármegye,Veszprém vármegye,Változó településen foglalkoztatott,348
+Fejér vármegye,Zala vármegye,Más magyarországi településen foglalkoztatott,73
+Fejér vármegye,Zala vármegye,Változó településen foglalkoztatott,55
+Győr-Moson-Sopron vármegye,Baranya vármegye,Más magyarországi településen foglalkoztatott,94
+Győr-Moson-Sopron vármegye,Baranya vármegye,Változó településen foglalkoztatott,30
+Győr-Moson-Sopron vármegye,Borsod-Abaúj-Zemplén vármegye,Más magyarországi településen foglalkoztatott,68
+Győr-Moson-Sopron vármegye,Borsod-Abaúj-Zemplén vármegye,Változó településen foglalkoztatott,51
+Győr-Moson-Sopron vármegye,Budapest,Más magyarországi településen foglalkoztatott,3936
+Győr-Moson-Sopron vármegye,Budapest,Változó településen foglalkoztatott,1242
+Győr-Moson-Sopron vármegye,Bács-Kiskun vármegye,Más magyarországi településen foglalkoztatott,70
+Győr-Moson-Sopron vármegye,Bács-Kiskun vármegye,Változó településen foglalkoztatott,42
+Győr-Moson-Sopron vármegye,Békés vármegye,Más magyarországi településen foglalkoztatott,14
+Győr-Moson-Sopron vármegye,Békés vármegye,Változó településen foglalkoztatott,17
+Győr-Moson-Sopron vármegye,Csongrád-Csanád vármegye,Más magyarországi településen foglalkoztatott,42
+Győr-Moson-Sopron vármegye,Csongrád-Csanád vármegye,Változó településen foglalkoztatott,27
+Győr-Moson-Sopron vármegye,Fejér vármegye,Más magyarországi településen foglalkoztatott,234
+Győr-Moson-Sopron vármegye,Fejér vármegye,Változó településen foglalkoztatott,88
+Győr-Moson-Sopron vármegye,Győr-Moson-Sopron vármegye,Lakóhely településén foglalkoztatott,109612
+Győr-Moson-Sopron vármegye,Győr-Moson-Sopron vármegye,Lakóhelyén foglalkoztatott,12714
+Győr-Moson-Sopron vármegye,Győr-Moson-Sopron vármegye,Más magyarországi településen foglalkoztatott,71655
+Győr-Moson-Sopron vármegye,Győr-Moson-Sopron vármegye,Változó településen foglalkoztatott,7740
+Győr-Moson-Sopron vármegye,Hajdú-Bihar vármegye,Más magyarországi településen foglalkoztatott,42
+Győr-Moson-Sopron vármegye,Hajdú-Bihar vármegye,Változó településen foglalkoztatott,35
+Győr-Moson-Sopron vármegye,Heves vármegye,Más magyarországi településen foglalkoztatott,53
+Győr-Moson-Sopron vármegye,Heves vármegye,Változó településen foglalkoztatott,21
+Győr-Moson-Sopron vármegye,Jász-Nagykun-Szolnok vármegye,Más magyarországi településen foglalkoztatott,51
+Győr-Moson-Sopron vármegye,Jász-Nagykun-Szolnok vármegye,Változó településen foglalkoztatott,26
+Győr-Moson-Sopron vármegye,Komárom-Esztergom vármegye,Más magyarországi településen foglalkoztatott,1983
+Győr-Moson-Sopron vármegye,Komárom-Esztergom vármegye,Változó településen foglalkoztatott,253
+Győr-Moson-Sopron vármegye,Külföld,Külföldön foglalkoztatott,31353
+Győr-Moson-Sopron vármegye,Nógrád vármegye,Más magyarországi településen foglalkoztatott,14
+Győr-Moson-Sopron vármegye,Nógrád vármegye,Változó településen foglalkoztatott,12
+Győr-Moson-Sopron vármegye,Pest vármegye,Más magyarországi településen foglalkoztatott,504
+Győr-Moson-Sopron vármegye,Pest vármegye,Változó településen foglalkoztatott,377
+Győr-Moson-Sopron vármegye,Somogy vármegye,Más magyarországi településen foglalkoztatott,88
+Győr-Moson-Sopron vármegye,Somogy vármegye,Változó településen foglalkoztatott,36
+Győr-Moson-Sopron vármegye,Szabolcs-Szatmár-Bereg vármegye,Más magyarországi településen foglalkoztatott,47
+Győr-Moson-Sopron vármegye,Szabolcs-Szatmár-Bereg vármegye,Változó településen foglalkoztatott,33
+Győr-Moson-Sopron vármegye,Tolna vármegye,Más magyarországi településen foglalkoztatott,40
+Győr-Moson-Sopron vármegye,Tolna vármegye,Változó településen foglalkoztatott,24
+Győr-Moson-Sopron vármegye,Vas vármegye,Más magyarországi településen foglalkoztatott,1149
+Győr-Moson-Sopron vármegye,Vas vármegye,Változó településen foglalkoztatott,212
+Győr-Moson-Sopron vármegye,Veszprém vármegye,Más magyarországi településen foglalkoztatott,966
+Győr-Moson-Sopron vármegye,Veszprém vármegye,Változó településen foglalkoztatott,192
+Győr-Moson-Sopron vármegye,Zala vármegye,Más magyarországi településen foglalkoztatott,108
+Győr-Moson-Sopron vármegye,Zala vármegye,Változó településen foglalkoztatott,57
+Hajdú-Bihar vármegye,Baranya vármegye,Más magyarországi településen foglalkoztatott,69
+Hajdú-Bihar vármegye,Baranya vármegye,Változó településen foglalkoztatott,69
+Hajdú-Bihar vármegye,Borsod-Abaúj-Zemplén vármegye,Más magyarországi településen foglalkoztatott,3756
+Hajdú-Bihar vármegye,Borsod-Abaúj-Zemplén vármegye,Változó településen foglalkoztatott,512
+Hajdú-Bihar vármegye,Budapest,Más magyarországi településen foglalkoztatott,5322
+Hajdú-Bihar vármegye,Budapest,Változó településen foglalkoztatott,1805
+Hajdú-Bihar vármegye,Bács-Kiskun vármegye,Más magyarországi településen foglalkoztatott,183
+Hajdú-Bihar vármegye,Bács-Kiskun vármegye,Változó településen foglalkoztatott,167
+Hajdú-Bihar vármegye,Békés vármegye,Más magyarországi településen foglalkoztatott,1417
+Hajdú-Bihar vármegye,Békés vármegye,Változó településen foglalkoztatott,149
+Hajdú-Bihar vármegye,Csongrád-Csanád vármegye,Más magyarországi településen foglalkoztatott,163
+Hajdú-Bihar vármegye,Csongrád-Csanád vármegye,Változó településen foglalkoztatott,84
+Hajdú-Bihar vármegye,Fejér vármegye,Más magyarországi településen foglalkoztatott,141
+Hajdú-Bihar vármegye,Fejér vármegye,Változó településen foglalkoztatott,94
+Hajdú-Bihar vármegye,Győr-Moson-Sopron vármegye,Más magyarországi településen foglalkoztatott,339
+Hajdú-Bihar vármegye,Győr-Moson-Sopron vármegye,Változó településen foglalkoztatott,115
+Hajdú-Bihar vármegye,Hajdú-Bihar vármegye,Lakóhely településén foglalkoztatott,143784
+Hajdú-Bihar vármegye,Hajdú-Bihar vármegye,Lakóhelyén foglalkoztatott,14900
+Hajdú-Bihar vármegye,Hajdú-Bihar vármegye,Más magyarországi településen foglalkoztatott,48993
+Hajdú-Bihar vármegye,Hajdú-Bihar vármegye,Változó településen foglalkoztatott,6163
+Hajdú-Bihar vármegye,Heves vármegye,Más magyarországi településen foglalkoztatott,327
+Hajdú-Bihar vármegye,Heves vármegye,Változó településen foglalkoztatott,121
+Hajdú-Bihar vármegye,Jász-Nagykun-Szolnok vármegye,Más magyarországi településen foglalkoztatott,1090
+Hajdú-Bihar vármegye,Jász-Nagykun-Szolnok vármegye,Változó településen foglalkoztatott,208
+Hajdú-Bihar vármegye,Komárom-Esztergom vármegye,Más magyarországi településen foglalkoztatott,283
+Hajdú-Bihar vármegye,Komárom-Esztergom vármegye,Változó településen foglalkoztatott,64
+Hajdú-Bihar vármegye,Külföld,Külföldön foglalkoztatott,4773
+Hajdú-Bihar vármegye,Nógrád vármegye,Más magyarországi településen foglalkoztatott,65
+Hajdú-Bihar vármegye,Nógrád vármegye,Változó településen foglalkoztatott,32
+Hajdú-Bihar vármegye,Pest vármegye,Más magyarországi településen foglalkoztatott,1099
+Hajdú-Bihar vármegye,Pest vármegye,Változó településen foglalkoztatott,602
+Hajdú-Bihar vármegye,Somogy vármegye,Más magyarországi településen foglalkoztatott,74
+Hajdú-Bihar vármegye,Somogy vármegye,Változó településen foglalkoztatott,35
+Hajdú-Bihar vármegye,Szabolcs-Szatmár-Bereg vármegye,Más magyarországi településen foglalkoztatott,3327
+Hajdú-Bihar vármegye,Szabolcs-Szatmár-Bereg vármegye,Változó településen foglalkoztatott,540
+Hajdú-Bihar vármegye,Tolna vármegye,Más magyarországi településen foglalkoztatott,39
+Hajdú-Bihar vármegye,Tolna vármegye,Változó településen foglalkoztatott,16
+Hajdú-Bihar vármegye,Vas vármegye,Más magyarországi településen foglalkoztatott,74
+Hajdú-Bihar vármegye,Vas vármegye,Változó településen foglalkoztatott,22
+Hajdú-Bihar vármegye,Veszprém vármegye,Más magyarországi településen foglalkoztatott,166
+Hajdú-Bihar vármegye,Veszprém vármegye,Változó településen foglalkoztatott,61
+Hajdú-Bihar vármegye,Zala vármegye,Más magyarországi településen foglalkoztatott,52
+Hajdú-Bihar vármegye,Zala vármegye,Változó településen foglalkoztatott,45
+Heves vármegye,Baranya vármegye,Más magyarországi településen foglalkoztatott,33
+Heves vármegye,Baranya vármegye,Változó településen foglalkoztatott,23
+Heves vármegye,Borsod-Abaúj-Zemplén vármegye,Más magyarországi településen foglalkoztatott,1415
+Heves vármegye,Borsod-Abaúj-Zemplén vármegye,Változó településen foglalkoztatott,344
+Heves vármegye,Budapest,Más magyarországi településen foglalkoztatott,8815
+Heves vármegye,Budapest,Változó településen foglalkoztatott,1979
+Heves vármegye,Bács-Kiskun vármegye,Más magyarországi településen foglalkoztatott,100
+Heves vármegye,Bács-Kiskun vármegye,Változó településen foglalkoztatott,38
+Heves vármegye,Békés vármegye,Más magyarországi településen foglalkoztatott,39
+Heves vármegye,Békés vármegye,Változó településen foglalkoztatott,16
+Heves vármegye,Csongrád-Csanád vármegye,Más magyarországi településen foglalkoztatott,72
+Heves vármegye,Csongrád-Csanád vármegye,Változó településen foglalkoztatott,18
+Heves vármegye,Fejér vármegye,Más magyarországi településen foglalkoztatott,93
+Heves vármegye,Fejér vármegye,Változó településen foglalkoztatott,38
+Heves vármegye,Győr-Moson-Sopron vármegye,Más magyarországi településen foglalkoztatott,138
+Heves vármegye,Győr-Moson-Sopron vármegye,Változó településen foglalkoztatott,58
+Heves vármegye,Hajdú-Bihar vármegye,Más magyarországi településen foglalkoztatott,269
+Heves vármegye,Hajdú-Bihar vármegye,Változó településen foglalkoztatott,71
+Heves vármegye,Heves vármegye,Lakóhely településén foglalkoztatott,54396
+Heves vármegye,Heves vármegye,Lakóhelyén foglalkoztatott,6832
+Heves vármegye,Heves vármegye,Más magyarországi településen foglalkoztatott,44108
+Heves vármegye,Heves vármegye,Változó településen foglalkoztatott,4451
+Heves vármegye,Jász-Nagykun-Szolnok vármegye,Más magyarországi településen foglalkoztatott,4195
+Heves vármegye,Jász-Nagykun-Szolnok vármegye,Változó településen foglalkoztatott,268
+Heves vármegye,Komárom-Esztergom vármegye,Más magyarországi településen foglalkoztatott,105
+Heves vármegye,Komárom-Esztergom vármegye,Változó településen foglalkoztatott,45
+Heves vármegye,Külföld,Külföldön foglalkoztatott,1661
+Heves vármegye,Nógrád vármegye,Más magyarországi településen foglalkoztatott,652
+Heves vármegye,Nógrád vármegye,Változó településen foglalkoztatott,107
+Heves vármegye,Pest vármegye,Más magyarországi településen foglalkoztatott,2885
+Heves vármegye,Pest vármegye,Változó településen foglalkoztatott,748
+Heves vármegye,Somogy vármegye,Más magyarországi településen foglalkoztatott,35
+Heves vármegye,Somogy vármegye,Változó településen foglalkoztatott,18
+Heves vármegye,Szabolcs-Szatmár-Bereg vármegye,Más magyarországi településen foglalkoztatott,55
+Heves vármegye,Szabolcs-Szatmár-Bereg vármegye,Változó településen foglalkoztatott,28
+Heves vármegye,Tolna vármegye,Más magyarországi településen foglalkoztatott,20
+Heves vármegye,Tolna vármegye,Változó településen foglalkoztatott,8
+Heves vármegye,Vas vármegye,Más magyarországi településen foglalkoztatott,39
+Heves vármegye,Vas vármegye,Változó településen foglalkoztatott,19
+Heves vármegye,Veszprém vármegye,Más magyarországi településen foglalkoztatott,79
+Heves vármegye,Veszprém vármegye,Változó településen foglalkoztatott,31
+Heves vármegye,Zala vármegye,Más magyarországi településen foglalkoztatott,31
+Heves vármegye,Zala vármegye,Változó településen foglalkoztatott,21
+Jász-Nagykun-Szolnok vármegye,Baranya vármegye,Más magyarországi településen foglalkoztatott,66
+Jász-Nagykun-Szolnok vármegye,Baranya vármegye,Változó településen foglalkoztatott,39
+Jász-Nagykun-Szolnok vármegye,Borsod-Abaúj-Zemplén vármegye,Más magyarországi településen foglalkoztatott,250
+Jász-Nagykun-Szolnok vármegye,Borsod-Abaúj-Zemplén vármegye,Változó településen foglalkoztatott,118
+Jász-Nagykun-Szolnok vármegye,Budapest,Más magyarországi településen foglalkoztatott,8340
+Jász-Nagykun-Szolnok vármegye,Budapest,Változó településen foglalkoztatott,2247
+Jász-Nagykun-Szolnok vármegye,Bács-Kiskun vármegye,Más magyarországi településen foglalkoztatott,2419
+Jász-Nagykun-Szolnok vármegye,Bács-Kiskun vármegye,Változó településen foglalkoztatott,489
+Jász-Nagykun-Szolnok vármegye,Békés vármegye,Más magyarországi településen foglalkoztatott,674
+Jász-Nagykun-Szolnok vármegye,Békés vármegye,Változó településen foglalkoztatott,148
+Jász-Nagykun-Szolnok vármegye,Csongrád-Csanád vármegye,Más magyarországi településen foglalkoztatott,809
+Jász-Nagykun-Szolnok vármegye,Csongrád-Csanád vármegye,Változó településen foglalkoztatott,152
+Jász-Nagykun-Szolnok vármegye,Fejér vármegye,Más magyarországi településen foglalkoztatott,180
+Jász-Nagykun-Szolnok vármegye,Fejér vármegye,Változó településen foglalkoztatott,96
+Jász-Nagykun-Szolnok vármegye,Győr-Moson-Sopron vármegye,Más magyarországi településen foglalkoztatott,279
+Jász-Nagykun-Szolnok vármegye,Győr-Moson-Sopron vármegye,Változó településen foglalkoztatott,95
+Jász-Nagykun-Szolnok vármegye,Hajdú-Bihar vármegye,Más magyarországi településen foglalkoztatott,842
+Jász-Nagykun-Szolnok vármegye,Hajdú-Bihar vármegye,Változó településen foglalkoztatott,205
+Jász-Nagykun-Szolnok vármegye,Heves vármegye,Más magyarországi településen foglalkoztatott,2175
+Jász-Nagykun-Szolnok vármegye,Heves vármegye,Változó településen foglalkoztatott,326
+Jász-Nagykun-Szolnok vármegye,Jász-Nagykun-Szolnok vármegye,Lakóhely településén foglalkoztatott,87610
+Jász-Nagykun-Szolnok vármegye,Jász-Nagykun-Szolnok vármegye,Lakóhelyén foglalkoztatott,7670
+Jász-Nagykun-Szolnok vármegye,Jász-Nagykun-Szolnok vármegye,Más magyarországi településen foglalkoztatott,36089
+Jász-Nagykun-Szolnok vármegye,Jász-Nagykun-Szolnok vármegye,Változó településen foglalkoztatott,3635
+Jász-Nagykun-Szolnok vármegye,Komárom-Esztergom vármegye,Más magyarországi településen foglalkoztatott,200
+Jász-Nagykun-Szolnok vármegye,Komárom-Esztergom vármegye,Változó településen foglalkoztatott,96
+Jász-Nagykun-Szolnok vármegye,Külföld,Külföldön foglalkoztatott,2652
+Jász-Nagykun-Szolnok vármegye,Nógrád vármegye,Más magyarországi településen foglalkoztatott,76
+Jász-Nagykun-Szolnok vármegye,Nógrád vármegye,Változó településen foglalkoztatott,29
+Jász-Nagykun-Szolnok vármegye,Pest vármegye,Más magyarországi településen foglalkoztatott,4163
+Jász-Nagykun-Szolnok vármegye,Pest vármegye,Változó településen foglalkoztatott,1095
+Jász-Nagykun-Szolnok vármegye,Somogy vármegye,Más magyarországi településen foglalkoztatott,72
+Jász-Nagykun-Szolnok vármegye,Somogy vármegye,Változó településen foglalkoztatott,39
+Jász-Nagykun-Szolnok vármegye,Szabolcs-Szatmár-Bereg vármegye,Más magyarországi településen foglalkoztatott,89
+Jász-Nagykun-Szolnok vármegye,Szabolcs-Szatmár-Bereg vármegye,Változó településen foglalkoztatott,48
+Jász-Nagykun-Szolnok vármegye,Tolna vármegye,Más magyarországi településen foglalkoztatott,40
+Jász-Nagykun-Szolnok vármegye,Tolna vármegye,Változó településen foglalkoztatott,30
+Jász-Nagykun-Szolnok vármegye,Vas vármegye,Más magyarországi településen foglalkoztatott,41
+Jász-Nagykun-Szolnok vármegye,Vas vármegye,Változó településen foglalkoztatott,35
+Jász-Nagykun-Szolnok vármegye,Veszprém vármegye,Más magyarországi településen foglalkoztatott,127
+Jász-Nagykun-Szolnok vármegye,Veszprém vármegye,Változó településen foglalkoztatott,64
+Jász-Nagykun-Szolnok vármegye,Zala vármegye,Más magyarországi településen foglalkoztatott,39
+Jász-Nagykun-Szolnok vármegye,Zala vármegye,Változó településen foglalkoztatott,24
+Komárom-Esztergom vármegye,Baranya vármegye,Más magyarországi településen foglalkoztatott,52
+Komárom-Esztergom vármegye,Baranya vármegye,Változó településen foglalkoztatott,35
+Komárom-Esztergom vármegye,Borsod-Abaúj-Zemplén vármegye,Más magyarországi településen foglalkoztatott,54
+Komárom-Esztergom vármegye,Borsod-Abaúj-Zemplén vármegye,Változó településen foglalkoztatott,42
+Komárom-Esztergom vármegye,Budapest,Más magyarországi településen foglalkoztatott,9052
+Komárom-Esztergom vármegye,Budapest,Változó településen foglalkoztatott,1738
+Komárom-Esztergom vármegye,Bács-Kiskun vármegye,Más magyarországi településen foglalkoztatott,69
+Komárom-Esztergom vármegye,Bács-Kiskun vármegye,Változó településen foglalkoztatott,29
+Komárom-Esztergom vármegye,Békés vármegye,Más magyarországi településen foglalkoztatott,25
+Komárom-Esztergom vármegye,Békés vármegye,Változó településen foglalkoztatott,7
+Komárom-Esztergom vármegye,Csongrád-Csanád vármegye,Más magyarországi településen foglalkoztatott,53
+Komárom-Esztergom vármegye,Csongrád-Csanád vármegye,Változó településen foglalkoztatott,21
+Komárom-Esztergom vármegye,Fejér vármegye,Más magyarországi településen foglalkoztatott,3036
+Komárom-Esztergom vármegye,Fejér vármegye,Változó településen foglalkoztatott,290
+Komárom-Esztergom vármegye,Győr-Moson-Sopron vármegye,Más magyarországi településen foglalkoztatott,4196
+Komárom-Esztergom vármegye,Győr-Moson-Sopron vármegye,Változó településen foglalkoztatott,460
+Komárom-Esztergom vármegye,Hajdú-Bihar vármegye,Más magyarországi településen foglalkoztatott,47
+Komárom-Esztergom vármegye,Hajdú-Bihar vármegye,Változó településen foglalkoztatott,20
+Komárom-Esztergom vármegye,Heves vármegye,Más magyarországi településen foglalkoztatott,53
+Komárom-Esztergom vármegye,Heves vármegye,Változó településen foglalkoztatott,21
+Komárom-Esztergom vármegye,Jász-Nagykun-Szolnok vármegye,Más magyarországi településen foglalkoztatott,31
+Komárom-Esztergom vármegye,Jász-Nagykun-Szolnok vármegye,Változó településen foglalkoztatott,18
+Komárom-Esztergom vármegye,Komárom-Esztergom vármegye,Lakóhely településén foglalkoztatott,67117
+Komárom-Esztergom vármegye,Komárom-Esztergom vármegye,Lakóhelyén foglalkoztatott,7202
+Komárom-Esztergom vármegye,Komárom-Esztergom vármegye,Más magyarországi településen foglalkoztatott,48547
+Komárom-Esztergom vármegye,Komárom-Esztergom vármegye,Változó településen foglalkoztatott,4295
+Komárom-Esztergom vármegye,Külföld,Külföldön foglalkoztatott,2564
+Komárom-Esztergom vármegye,Nógrád vármegye,Más magyarországi településen foglalkoztatott,24
+Komárom-Esztergom vármegye,Nógrád vármegye,Változó településen foglalkoztatott,14
+Komárom-Esztergom vármegye,Pest vármegye,Más magyarországi településen foglalkoztatott,5144
+Komárom-Esztergom vármegye,Pest vármegye,Változó településen foglalkoztatott,800
+Komárom-Esztergom vármegye,Somogy vármegye,Más magyarországi településen foglalkoztatott,81
+Komárom-Esztergom vármegye,Somogy vármegye,Változó településen foglalkoztatott,34
+Komárom-Esztergom vármegye,Szabolcs-Szatmár-Bereg vármegye,Más magyarországi településen foglalkoztatott,24
+Komárom-Esztergom vármegye,Szabolcs-Szatmár-Bereg vármegye,Változó településen foglalkoztatott,23
+Komárom-Esztergom vármegye,Tolna vármegye,Más magyarországi településen foglalkoztatott,34
+Komárom-Esztergom vármegye,Tolna vármegye,Változó településen foglalkoztatott,17
+Komárom-Esztergom vármegye,Vas vármegye,Más magyarországi településen foglalkoztatott,54
+Komárom-Esztergom vármegye,Vas vármegye,Változó településen foglalkoztatott,17
+Komárom-Esztergom vármegye,Veszprém vármegye,Más magyarországi településen foglalkoztatott,220
+Komárom-Esztergom vármegye,Veszprém vármegye,Változó településen foglalkoztatott,73
+Komárom-Esztergom vármegye,Zala vármegye,Más magyarországi településen foglalkoztatott,52
+Komárom-Esztergom vármegye,Zala vármegye,Változó településen foglalkoztatott,25
+Nógrád vármegye,Baranya vármegye,Más magyarországi településen foglalkoztatott,20
+Nógrád vármegye,Baranya vármegye,Változó településen foglalkoztatott,17
+Nógrád vármegye,Borsod-Abaúj-Zemplén vármegye,Más magyarországi településen foglalkoztatott,95
+Nógrád vármegye,Borsod-Abaúj-Zemplén vármegye,Változó településen foglalkoztatott,78
+Nógrád vármegye,Budapest,Más magyarországi településen foglalkoztatott,7623
+Nógrád vármegye,Budapest,Változó településen foglalkoztatott,1959
+Nógrád vármegye,Bács-Kiskun vármegye,Más magyarországi településen foglalkoztatott,68
+Nógrád vármegye,Bács-Kiskun vármegye,Változó településen foglalkoztatott,17
+Nógrád vármegye,Békés vármegye,Más magyarországi településen foglalkoztatott,14
+Nógrád vármegye,Békés vármegye,Változó településen foglalkoztatott,3
+Nógrád vármegye,Csongrád-Csanád vármegye,Más magyarországi településen foglalkoztatott,38
+Nógrád vármegye,Csongrád-Csanád vármegye,Változó településen foglalkoztatott,20
+Nógrád vármegye,Fejér vármegye,Más magyarországi településen foglalkoztatott,100
+Nógrád vármegye,Fejér vármegye,Változó településen foglalkoztatott,61
+Nógrád vármegye,Győr-Moson-Sopron vármegye,Más magyarországi településen foglalkoztatott,122
+Nógrád vármegye,Győr-Moson-Sopron vármegye,Változó településen foglalkoztatott,31
+Nógrád vármegye,Hajdú-Bihar vármegye,Más magyarországi településen foglalkoztatott,46
+Nógrád vármegye,Hajdú-Bihar vármegye,Változó településen foglalkoztatott,27
+Nógrád vármegye,Heves vármegye,Más magyarországi településen foglalkoztatott,3309
+Nógrád vármegye,Heves vármegye,Változó településen foglalkoztatott,336
+Nógrád vármegye,Jász-Nagykun-Szolnok vármegye,Más magyarországi településen foglalkoztatott,492
+Nógrád vármegye,Jász-Nagykun-Szolnok vármegye,Változó településen foglalkoztatott,43
+Nógrád vármegye,Komárom-Esztergom vármegye,Más magyarországi településen foglalkoztatott,101
+Nógrád vármegye,Komárom-Esztergom vármegye,Változó településen foglalkoztatott,47
+Nógrád vármegye,Külföld,Külföldön foglalkoztatott,1817
+Nógrád vármegye,Nógrád vármegye,Lakóhely településén foglalkoztatott,30514
+Nógrád vármegye,Nógrád vármegye,Lakóhelyén foglalkoztatott,3762
+Nógrád vármegye,Nógrád vármegye,Más magyarországi településen foglalkoztatott,20483
+Nógrád vármegye,Nógrád vármegye,Változó településen foglalkoztatott,2123
+Nógrád vármegye,Pest vármegye,Más magyarországi településen foglalkoztatott,6669
+Nógrád vármegye,Pest vármegye,Változó településen foglalkoztatott,1091
+Nógrád vármegye,Somogy vármegye,Más magyarországi településen foglalkoztatott,42
+Nógrád vármegye,Somogy vármegye,Változó településen foglalkoztatott,19
+Nógrád vármegye,Szabolcs-Szatmár-Bereg vármegye,Más magyarországi településen foglalkoztatott,18
+Nógrád vármegye,Szabolcs-Szatmár-Bereg vármegye,Változó településen foglalkoztatott,11
+Nógrád vármegye,Tolna vármegye,Más magyarországi településen foglalkoztatott,5
+Nógrád vármegye,Tolna vármegye,Változó településen foglalkoztatott,6
+Nógrád vármegye,Vas vármegye,Más magyarországi településen foglalkoztatott,19
+Nógrád vármegye,Vas vármegye,Változó településen foglalkoztatott,17
+Nógrád vármegye,Veszprém vármegye,Más magyarországi településen foglalkoztatott,77
+Nógrád vármegye,Veszprém vármegye,Változó településen foglalkoztatott,28
+Nógrád vármegye,Zala vármegye,Más magyarországi településen foglalkoztatott,11
+Nógrád vármegye,Zala vármegye,Változó településen foglalkoztatott,8
+Pest vármegye,Baranya vármegye,Más magyarországi településen foglalkoztatott,303
+Pest vármegye,Baranya vármegye,Változó településen foglalkoztatott,144
+Pest vármegye,Borsod-Abaúj-Zemplén vármegye,Más magyarországi településen foglalkoztatott,437
+Pest vármegye,Borsod-Abaúj-Zemplén vármegye,Változó településen foglalkoztatott,283
+Pest vármegye,Budapest,Más magyarországi településen foglalkoztatott,229187
+Pest vármegye,Budapest,Változó településen foglalkoztatott,28182
+Pest vármegye,Bács-Kiskun vármegye,Más magyarországi településen foglalkoztatott,6244
+Pest vármegye,Bács-Kiskun vármegye,Változó településen foglalkoztatott,889
+Pest vármegye,Békés vármegye,Más magyarországi településen foglalkoztatott,138
+Pest vármegye,Békés vármegye,Változó településen foglalkoztatott,125
+Pest vármegye,Csongrád-Csanád vármegye,Más magyarországi településen foglalkoztatott,418
+Pest vármegye,Csongrád-Csanád vármegye,Változó településen foglalkoztatott,183
+Pest vármegye,Fejér vármegye,Más magyarországi településen foglalkoztatott,2396
+Pest vármegye,Fejér vármegye,Változó településen foglalkoztatott,722
+Pest vármegye,Győr-Moson-Sopron vármegye,Más magyarországi településen foglalkoztatott,560
+Pest vármegye,Győr-Moson-Sopron vármegye,Változó településen foglalkoztatott,290
+Pest vármegye,Hajdú-Bihar vármegye,Más magyarországi településen foglalkoztatott,301
+Pest vármegye,Hajdú-Bihar vármegye,Változó településen foglalkoztatott,192
+Pest vármegye,Heves vármegye,Más magyarországi településen foglalkoztatott,2385
+Pest vármegye,Heves vármegye,Változó településen foglalkoztatott,371
+Pest vármegye,Jász-Nagykun-Szolnok vármegye,Más magyarországi településen foglalkoztatott,4831
+Pest vármegye,Jász-Nagykun-Szolnok vármegye,Változó településen foglalkoztatott,642
+Pest vármegye,Komárom-Esztergom vármegye,Más magyarországi településen foglalkoztatott,1754
+Pest vármegye,Komárom-Esztergom vármegye,Változó településen foglalkoztatott,473
+Pest vármegye,Külföld,Külföldön foglalkoztatott,7167
+Pest vármegye,Nógrád vármegye,Más magyarországi településen foglalkoztatott,919
+Pest vármegye,Nógrád vármegye,Változó településen foglalkoztatott,193
+Pest vármegye,Pest vármegye,Lakóhely településén foglalkoztatott,181063
+Pest vármegye,Pest vármegye,Lakóhelyén foglalkoztatott,55486
+Pest vármegye,Pest vármegye,Más magyarországi településen foglalkoztatott,132320
+Pest vármegye,Pest vármegye,Változó településen foglalkoztatott,17078
+Pest vármegye,Somogy vármegye,Más magyarországi településen foglalkoztatott,344
+Pest vármegye,Somogy vármegye,Változó településen foglalkoztatott,154
+Pest vármegye,Szabolcs-Szatmár-Bereg vármegye,Más magyarországi településen foglalkoztatott,185
+Pest vármegye,Szabolcs-Szatmár-Bereg vármegye,Változó településen foglalkoztatott,144
+Pest vármegye,Tolna vármegye,Más magyarországi településen foglalkoztatott,180
+Pest vármegye,Tolna vármegye,Változó településen foglalkoztatott,98
+Pest vármegye,Vas vármegye,Más magyarországi településen foglalkoztatott,144
+Pest vármegye,Vas vármegye,Változó településen foglalkoztatott,115
+Pest vármegye,Veszprém vármegye,Más magyarországi településen foglalkoztatott,477
+Pest vármegye,Veszprém vármegye,Változó településen foglalkoztatott,253
+Pest vármegye,Zala vármegye,Más magyarországi településen foglalkoztatott,166
+Pest vármegye,Zala vármegye,Változó településen foglalkoztatott,135
+Somogy vármegye,Baranya vármegye,Más magyarországi településen foglalkoztatott,1276
+Somogy vármegye,Baranya vármegye,Változó településen foglalkoztatott,347
+Somogy vármegye,Borsod-Abaúj-Zemplén vármegye,Más magyarországi településen foglalkoztatott,51
+Somogy vármegye,Borsod-Abaúj-Zemplén vármegye,Változó településen foglalkoztatott,31
+Somogy vármegye,Budapest,Más magyarországi településen foglalkoztatott,4206
+Somogy vármegye,Budapest,Változó településen foglalkoztatott,1198
+Somogy vármegye,Bács-Kiskun vármegye,Más magyarországi településen foglalkoztatott,101
+Somogy vármegye,Bács-Kiskun vármegye,Változó településen foglalkoztatott,77
+Somogy vármegye,Békés vármegye,Más magyarországi településen foglalkoztatott,30
+Somogy vármegye,Békés vármegye,Változó településen foglalkoztatott,13
+Somogy vármegye,Csongrád-Csanád vármegye,Más magyarországi településen foglalkoztatott,65
+Somogy vármegye,Csongrád-Csanád vármegye,Változó településen foglalkoztatott,24
+Somogy vármegye,Fejér vármegye,Más magyarországi településen foglalkoztatott,953
+Somogy vármegye,Fejér vármegye,Változó településen foglalkoztatott,195
+Somogy vármegye,Győr-Moson-Sopron vármegye,Más magyarországi településen foglalkoztatott,445
+Somogy vármegye,Győr-Moson-Sopron vármegye,Változó településen foglalkoztatott,115
+Somogy vármegye,Hajdú-Bihar vármegye,Más magyarországi településen foglalkoztatott,50
+Somogy vármegye,Hajdú-Bihar vármegye,Változó településen foglalkoztatott,36
+Somogy vármegye,Heves vármegye,Más magyarországi településen foglalkoztatott,61
+Somogy vármegye,Heves vármegye,Változó településen foglalkoztatott,36
+Somogy vármegye,Jász-Nagykun-Szolnok vármegye,Más magyarországi településen foglalkoztatott,51
+Somogy vármegye,Jász-Nagykun-Szolnok vármegye,Változó településen foglalkoztatott,24
+Somogy vármegye,Komárom-Esztergom vármegye,Más magyarországi településen foglalkoztatott,166
+Somogy vármegye,Komárom-Esztergom vármegye,Változó településen foglalkoztatott,61
+Somogy vármegye,Külföld,Külföldön foglalkoztatott,3917
+Somogy vármegye,Nógrád vármegye,Más magyarországi településen foglalkoztatott,17
+Somogy vármegye,Nógrád vármegye,Változó településen foglalkoztatott,10
+Somogy vármegye,Pest vármegye,Más magyarországi településen foglalkoztatott,744
+Somogy vármegye,Pest vármegye,Változó településen foglalkoztatott,318
+Somogy vármegye,Somogy vármegye,Lakóhely településén foglalkoztatott,62166
+Somogy vármegye,Somogy vármegye,Lakóhelyén foglalkoztatott,7783
+Somogy vármegye,Somogy vármegye,Más magyarországi településen foglalkoztatott,35844
+Somogy vármegye,Somogy vármegye,Változó településen foglalkoztatott,4884
+Somogy vármegye,Szabolcs-Szatmár-Bereg vármegye,Más magyarországi településen foglalkoztatott,26
+Somogy vármegye,Szabolcs-Szatmár-Bereg vármegye,Változó településen foglalkoztatott,22
+Somogy vármegye,Tolna vármegye,Más magyarországi településen foglalkoztatott,621
+Somogy vármegye,Tolna vármegye,Változó településen foglalkoztatott,140
+Somogy vármegye,Vas vármegye,Más magyarországi településen foglalkoztatott,174
+Somogy vármegye,Vas vármegye,Változó településen foglalkoztatott,50
+Somogy vármegye,Veszprém vármegye,Más magyarországi településen foglalkoztatott,733
+Somogy vármegye,Veszprém vármegye,Változó településen foglalkoztatott,170
+Somogy vármegye,Zala vármegye,Más magyarországi településen foglalkoztatott,2466
+Somogy vármegye,Zala vármegye,Változó településen foglalkoztatott,478
+Szabolcs-Szatmár-Bereg vármegye,Baranya vármegye,Más magyarországi településen foglalkoztatott,54
+Szabolcs-Szatmár-Bereg vármegye,Baranya vármegye,Változó településen foglalkoztatott,30
+Szabolcs-Szatmár-Bereg vármegye,Borsod-Abaúj-Zemplén vármegye,Más magyarországi településen foglalkoztatott,2102
+Szabolcs-Szatmár-Bereg vármegye,Borsod-Abaúj-Zemplén vármegye,Változó településen foglalkoztatott,430
+Szabolcs-Szatmár-Bereg vármegye,Budapest,Más magyarországi településen foglalkoztatott,7591
+Szabolcs-Szatmár-Bereg vármegye,Budapest,Változó településen foglalkoztatott,2016
+Szabolcs-Szatmár-Bereg vármegye,Bács-Kiskun vármegye,Más magyarországi településen foglalkoztatott,167
+Szabolcs-Szatmár-Bereg vármegye,Bács-Kiskun vármegye,Változó településen foglalkoztatott,114
+Szabolcs-Szatmár-Bereg vármegye,Békés vármegye,Más magyarországi településen foglalkoztatott,48
+Szabolcs-Szatmár-Bereg vármegye,Békés vármegye,Változó településen foglalkoztatott,44
+Szabolcs-Szatmár-Bereg vármegye,Csongrád-Csanád vármegye,Más magyarországi településen foglalkoztatott,115
+Szabolcs-Szatmár-Bereg vármegye,Csongrád-Csanád vármegye,Változó településen foglalkoztatott,59
+Szabolcs-Szatmár-Bereg vármegye,Fejér vármegye,Más magyarországi településen foglalkoztatott,251
+Szabolcs-Szatmár-Bereg vármegye,Fejér vármegye,Változó településen foglalkoztatott,87
+Szabolcs-Szatmár-Bereg vármegye,Győr-Moson-Sopron vármegye,Más magyarországi településen foglalkoztatott,493
+Szabolcs-Szatmár-Bereg vármegye,Győr-Moson-Sopron vármegye,Változó településen foglalkoztatott,118
+Szabolcs-Szatmár-Bereg vármegye,Hajdú-Bihar vármegye,Más magyarországi településen foglalkoztatott,6072
+Szabolcs-Szatmár-Bereg vármegye,Hajdú-Bihar vármegye,Változó településen foglalkoztatott,1127
+Szabolcs-Szatmár-Bereg vármegye,Heves vármegye,Más magyarországi településen foglalkoztatott,196
+Szabolcs-Szatmár-Bereg vármegye,Heves vármegye,Változó településen foglalkoztatott,91
+Szabolcs-Szatmár-Bereg vármegye,Jász-Nagykun-Szolnok vármegye,Más magyarországi településen foglalkoztatott,173
+Szabolcs-Szatmár-Bereg vármegye,Jász-Nagykun-Szolnok vármegye,Változó településen foglalkoztatott,65
+Szabolcs-Szatmár-Bereg vármegye,Komárom-Esztergom vármegye,Más magyarországi településen foglalkoztatott,356
+Szabolcs-Szatmár-Bereg vármegye,Komárom-Esztergom vármegye,Változó településen foglalkoztatott,110
+Szabolcs-Szatmár-Bereg vármegye,Külföld,Külföldön foglalkoztatott,4376
+Szabolcs-Szatmár-Bereg vármegye,Nógrád vármegye,Más magyarországi településen foglalkoztatott,57
+Szabolcs-Szatmár-Bereg vármegye,Nógrád vármegye,Változó településen foglalkoztatott,26
+Szabolcs-Szatmár-Bereg vármegye,Pest vármegye,Más magyarországi településen foglalkoztatott,1820
+Szabolcs-Szatmár-Bereg vármegye,Pest vármegye,Változó településen foglalkoztatott,687
+Szabolcs-Szatmár-Bereg vármegye,Somogy vármegye,Más magyarországi településen foglalkoztatott,98
+Szabolcs-Szatmár-Bereg vármegye,Somogy vármegye,Változó településen foglalkoztatott,69
+Szabolcs-Szatmár-Bereg vármegye,Szabolcs-Szatmár-Bereg vármegye,Lakóhely településén foglalkoztatott,119917
+Szabolcs-Szatmár-Bereg vármegye,Szabolcs-Szatmár-Bereg vármegye,Lakóhelyén foglalkoztatott,12013
+Szabolcs-Szatmár-Bereg vármegye,Szabolcs-Szatmár-Bereg vármegye,Más magyarországi településen foglalkoztatott,67493
+Szabolcs-Szatmár-Bereg vármegye,Szabolcs-Szatmár-Bereg vármegye,Változó településen foglalkoztatott,8085
+Szabolcs-Szatmár-Bereg vármegye,Tolna vármegye,Más magyarországi településen foglalkoztatott,49
+Szabolcs-Szatmár-Bereg vármegye,Tolna vármegye,Változó településen foglalkoztatott,19
+Szabolcs-Szatmár-Bereg vármegye,Vas vármegye,Más magyarországi településen foglalkoztatott,101
+Szabolcs-Szatmár-Bereg vármegye,Vas vármegye,Változó településen foglalkoztatott,38
+Szabolcs-Szatmár-Bereg vármegye,Veszprém vármegye,Más magyarországi településen foglalkoztatott,252
+Szabolcs-Szatmár-Bereg vármegye,Veszprém vármegye,Változó településen foglalkoztatott,120
+Szabolcs-Szatmár-Bereg vármegye,Zala vármegye,Más magyarországi településen foglalkoztatott,81
+Szabolcs-Szatmár-Bereg vármegye,Zala vármegye,Változó településen foglalkoztatott,46
+Tolna vármegye,Baranya vármegye,Más magyarországi településen foglalkoztatott,1998
+Tolna vármegye,Baranya vármegye,Változó településen foglalkoztatott,363
+Tolna vármegye,Borsod-Abaúj-Zemplén vármegye,Más magyarországi településen foglalkoztatott,26
+Tolna vármegye,Borsod-Abaúj-Zemplén vármegye,Változó településen foglalkoztatott,13
+Tolna vármegye,Budapest,Más magyarországi településen foglalkoztatott,2450
+Tolna vármegye,Budapest,Változó településen foglalkoztatott,713
+Tolna vármegye,Bács-Kiskun vármegye,Más magyarországi településen foglalkoztatott,638
+Tolna vármegye,Bács-Kiskun vármegye,Változó településen foglalkoztatott,148
+Tolna vármegye,Békés vármegye,Más magyarországi településen foglalkoztatott,12
+Tolna vármegye,Békés vármegye,Változó településen foglalkoztatott,14
+Tolna vármegye,Csongrád-Csanád vármegye,Más magyarországi településen foglalkoztatott,86
+Tolna vármegye,Csongrád-Csanád vármegye,Változó településen foglalkoztatott,36
+Tolna vármegye,Fejér vármegye,Más magyarországi településen foglalkoztatott,2823
+Tolna vármegye,Fejér vármegye,Változó településen foglalkoztatott,298
+Tolna vármegye,Győr-Moson-Sopron vármegye,Más magyarországi településen foglalkoztatott,147
+Tolna vármegye,Győr-Moson-Sopron vármegye,Változó településen foglalkoztatott,58
+Tolna vármegye,Hajdú-Bihar vármegye,Más magyarországi településen foglalkoztatott,24
+Tolna vármegye,Hajdú-Bihar vármegye,Változó településen foglalkoztatott,21
+Tolna vármegye,Heves vármegye,Más magyarországi településen foglalkoztatott,23
+Tolna vármegye,Heves vármegye,Változó településen foglalkoztatott,18
+Tolna vármegye,Jász-Nagykun-Szolnok vármegye,Más magyarországi településen foglalkoztatott,32
+Tolna vármegye,Jász-Nagykun-Szolnok vármegye,Változó településen foglalkoztatott,18
+Tolna vármegye,Komárom-Esztergom vármegye,Más magyarországi településen foglalkoztatott,103
+Tolna vármegye,Komárom-Esztergom vármegye,Változó településen foglalkoztatott,27
+Tolna vármegye,Külföld,Külföldön foglalkoztatott,2791
+Tolna vármegye,Nógrád vármegye,Más magyarországi településen foglalkoztatott,6
+Tolna vármegye,Nógrád vármegye,Változó településen foglalkoztatott,6
+Tolna vármegye,Pest vármegye,Más magyarországi településen foglalkoztatott,520
+Tolna vármegye,Pest vármegye,Változó településen foglalkoztatott,257
+Tolna vármegye,Somogy vármegye,Más magyarországi településen foglalkoztatott,1751
+Tolna vármegye,Somogy vármegye,Változó településen foglalkoztatott,268
+Tolna vármegye,Szabolcs-Szatmár-Bereg vármegye,Más magyarországi településen foglalkoztatott,7
+Tolna vármegye,Szabolcs-Szatmár-Bereg vármegye,Változó településen foglalkoztatott,7
+Tolna vármegye,Tolna vármegye,Lakóhely településén foglalkoztatott,45419
+Tolna vármegye,Tolna vármegye,Lakóhelyén foglalkoztatott,5078
+Tolna vármegye,Tolna vármegye,Más magyarországi településen foglalkoztatott,25536
+Tolna vármegye,Tolna vármegye,Változó településen foglalkoztatott,3075
+Tolna vármegye,Vas vármegye,Más magyarországi településen foglalkoztatott,35
+Tolna vármegye,Vas vármegye,Változó településen foglalkoztatott,14
+Tolna vármegye,Veszprém vármegye,Más magyarországi településen foglalkoztatott,291
+Tolna vármegye,Veszprém vármegye,Változó településen foglalkoztatott,80
+Tolna vármegye,Zala vármegye,Más magyarországi településen foglalkoztatott,47
+Tolna vármegye,Zala vármegye,Változó településen foglalkoztatott,32
+Vas vármegye,Baranya vármegye,Más magyarországi településen foglalkoztatott,62
+Vas vármegye,Baranya vármegye,Változó településen foglalkoztatott,24
+Vas vármegye,Borsod-Abaúj-Zemplén vármegye,Más magyarországi településen foglalkoztatott,38
+Vas vármegye,Borsod-Abaúj-Zemplén vármegye,Változó településen foglalkoztatott,22
+Vas vármegye,Budapest,Más magyarországi településen foglalkoztatott,1838
+Vas vármegye,Budapest,Változó településen foglalkoztatott,608
+Vas vármegye,Bács-Kiskun vármegye,Más magyarországi településen foglalkoztatott,39
+Vas vármegye,Bács-Kiskun vármegye,Változó településen foglalkoztatott,31
+Vas vármegye,Békés vármegye,Más magyarországi településen foglalkoztatott,8
+Vas vármegye,Békés vármegye,Változó településen foglalkoztatott,3
+Vas vármegye,Csongrád-Csanád vármegye,Más magyarországi településen foglalkoztatott,25
+Vas vármegye,Csongrád-Csanád vármegye,Változó településen foglalkoztatott,17
+Vas vármegye,Fejér vármegye,Más magyarországi településen foglalkoztatott,80
+Vas vármegye,Fejér vármegye,Változó településen foglalkoztatott,42
+Vas vármegye,Győr-Moson-Sopron vármegye,Más magyarországi településen foglalkoztatott,2474
+Vas vármegye,Győr-Moson-Sopron vármegye,Változó településen foglalkoztatott,451
+Vas vármegye,Hajdú-Bihar vármegye,Más magyarországi településen foglalkoztatott,15
+Vas vármegye,Hajdú-Bihar vármegye,Változó településen foglalkoztatott,23
+Vas vármegye,Heves vármegye,Más magyarországi településen foglalkoztatott,17
+Vas vármegye,Heves vármegye,Változó településen foglalkoztatott,6
+Vas vármegye,Jász-Nagykun-Szolnok vármegye,Más magyarországi településen foglalkoztatott,19
+Vas vármegye,Jász-Nagykun-Szolnok vármegye,Változó településen foglalkoztatott,8
+Vas vármegye,Komárom-Esztergom vármegye,Más magyarországi településen foglalkoztatott,84
+Vas vármegye,Komárom-Esztergom vármegye,Változó településen foglalkoztatott,45
+Vas vármegye,Külföld,Külföldön foglalkoztatott,11907
+Vas vármegye,Nógrád vármegye,Más magyarországi településen foglalkoztatott,2
+Vas vármegye,Nógrád vármegye,Változó településen foglalkoztatott,1
+Vas vármegye,Pest vármegye,Más magyarországi településen foglalkoztatott,251
+Vas vármegye,Pest vármegye,Változó településen foglalkoztatott,160
+Vas vármegye,Somogy vármegye,Más magyarországi településen foglalkoztatott,62
+Vas vármegye,Somogy vármegye,Változó településen foglalkoztatott,21
+Vas vármegye,Szabolcs-Szatmár-Bereg vármegye,Más magyarországi településen foglalkoztatott,12
+Vas vármegye,Szabolcs-Szatmár-Bereg vármegye,Változó településen foglalkoztatott,12
+Vas vármegye,Tolna vármegye,Más magyarországi településen foglalkoztatott,14
+Vas vármegye,Tolna vármegye,Változó településen foglalkoztatott,7
+Vas vármegye,Vas vármegye,Lakóhely településén foglalkoztatott,55239
+Vas vármegye,Vas vármegye,Lakóhelyén foglalkoztatott,6122
+Vas vármegye,Vas vármegye,Más magyarországi településen foglalkoztatott,41031
+Vas vármegye,Vas vármegye,Változó településen foglalkoztatott,3978
+Vas vármegye,Veszprém vármegye,Más magyarországi településen foglalkoztatott,776
+Vas vármegye,Veszprém vármegye,Változó településen foglalkoztatott,115
+Vas vármegye,Zala vármegye,Más magyarországi településen foglalkoztatott,1224
+Vas vármegye,Zala vármegye,Változó településen foglalkoztatott,220
+Veszprém vármegye,Baranya vármegye,Más magyarországi településen foglalkoztatott,92
+Veszprém vármegye,Baranya vármegye,Változó településen foglalkoztatott,56
+Veszprém vármegye,Borsod-Abaúj-Zemplén vármegye,Más magyarországi településen foglalkoztatott,81
+Veszprém vármegye,Borsod-Abaúj-Zemplén vármegye,Változó településen foglalkoztatott,45
+Veszprém vármegye,Budapest,Más magyarországi településen foglalkoztatott,4765
+Veszprém vármegye,Budapest,Változó településen foglalkoztatott,1386
+Veszprém vármegye,Bács-Kiskun vármegye,Más magyarországi településen foglalkoztatott,70
+Veszprém vármegye,Bács-Kiskun vármegye,Változó településen foglalkoztatott,55
+Veszprém vármegye,Békés vármegye,Más magyarországi településen foglalkoztatott,25
+Veszprém vármegye,Békés vármegye,Változó településen foglalkoztatott,17
+Veszprém vármegye,Csongrád-Csanád vármegye,Más magyarországi településen foglalkoztatott,63
+Veszprém vármegye,Csongrád-Csanád vármegye,Változó településen foglalkoztatott,28
+Veszprém vármegye,Fejér vármegye,Más magyarországi településen foglalkoztatott,5022
+Veszprém vármegye,Fejér vármegye,Változó településen foglalkoztatott,494
+Veszprém vármegye,Győr-Moson-Sopron vármegye,Más magyarországi településen foglalkoztatott,4069
+Veszprém vármegye,Győr-Moson-Sopron vármegye,Változó településen foglalkoztatott,613
+Veszprém vármegye,Hajdú-Bihar vármegye,Más magyarországi településen foglalkoztatott,39
+Veszprém vármegye,Hajdú-Bihar vármegye,Változó településen foglalkoztatott,26
+Veszprém vármegye,Heves vármegye,Más magyarországi településen foglalkoztatott,62
+Veszprém vármegye,Heves vármegye,Változó településen foglalkoztatott,39
+Veszprém vármegye,Jász-Nagykun-Szolnok vármegye,Más magyarországi településen foglalkoztatott,48
+Veszprém vármegye,Jász-Nagykun-Szolnok vármegye,Változó településen foglalkoztatott,31
+Veszprém vármegye,Komárom-Esztergom vármegye,Más magyarországi településen foglalkoztatott,375
+Veszprém vármegye,Komárom-Esztergom vármegye,Változó településen foglalkoztatott,130
+Veszprém vármegye,Külföld,Külföldön foglalkoztatott,4616
+Veszprém vármegye,Nógrád vármegye,Más magyarországi településen foglalkoztatott,7
+Veszprém vármegye,Nógrád vármegye,Változó településen foglalkoztatott,12
+Veszprém vármegye,Pest vármegye,Más magyarországi településen foglalkoztatott,765
+Veszprém vármegye,Pest vármegye,Változó településen foglalkoztatott,394
+Veszprém vármegye,Somogy vármegye,Más magyarországi településen foglalkoztatott,380
+Veszprém vármegye,Somogy vármegye,Változó településen foglalkoztatott,81
+Veszprém vármegye,Szabolcs-Szatmár-Bereg vármegye,Más magyarországi településen foglalkoztatott,31
+Veszprém vármegye,Szabolcs-Szatmár-Bereg vármegye,Változó településen foglalkoztatott,30
+Veszprém vármegye,Tolna vármegye,Más magyarországi településen foglalkoztatott,60
+Veszprém vármegye,Tolna vármegye,Változó településen foglalkoztatott,11
+Veszprém vármegye,Vas vármegye,Más magyarországi településen foglalkoztatott,1615
+Veszprém vármegye,Vas vármegye,Változó településen foglalkoztatott,243
+Veszprém vármegye,Veszprém vármegye,Lakóhely településén foglalkoztatott,71809
+Veszprém vármegye,Veszprém vármegye,Lakóhelyén foglalkoztatott,9776
+Veszprém vármegye,Veszprém vármegye,Más magyarországi településen foglalkoztatott,52509
+Veszprém vármegye,Veszprém vármegye,Változó településen foglalkoztatott,6119
+Veszprém vármegye,Zala vármegye,Más magyarországi településen foglalkoztatott,1067
+Veszprém vármegye,Zala vármegye,Változó településen foglalkoztatott,235
+Zala vármegye,Baranya vármegye,Más magyarországi településen foglalkoztatott,227
+Zala vármegye,Baranya vármegye,Változó településen foglalkoztatott,84
+Zala vármegye,Borsod-Abaúj-Zemplén vármegye,Más magyarországi településen foglalkoztatott,35
+Zala vármegye,Borsod-Abaúj-Zemplén vármegye,Változó településen foglalkoztatott,31
+Zala vármegye,Budapest,Más magyarországi településen foglalkoztatott,2957
+Zala vármegye,Budapest,Változó településen foglalkoztatott,823
+Zala vármegye,Bács-Kiskun vármegye,Más magyarországi településen foglalkoztatott,62
+Zala vármegye,Bács-Kiskun vármegye,Változó településen foglalkoztatott,43
+Zala vármegye,Békés vármegye,Más magyarországi településen foglalkoztatott,19
+Zala vármegye,Békés vármegye,Változó településen foglalkoztatott,9
+Zala vármegye,Csongrád-Csanád vármegye,Más magyarországi településen foglalkoztatott,70
+Zala vármegye,Csongrád-Csanád vármegye,Változó településen foglalkoztatott,51
+Zala vármegye,Fejér vármegye,Más magyarországi településen foglalkoztatott,138
+Zala vármegye,Fejér vármegye,Változó településen foglalkoztatott,62
+Zala vármegye,Győr-Moson-Sopron vármegye,Más magyarországi településen foglalkoztatott,505
+Zala vármegye,Győr-Moson-Sopron vármegye,Változó településen foglalkoztatott,182
+Zala vármegye,Hajdú-Bihar vármegye,Más magyarországi településen foglalkoztatott,22
+Zala vármegye,Hajdú-Bihar vármegye,Változó településen foglalkoztatott,25
+Zala vármegye,Heves vármegye,Más magyarországi településen foglalkoztatott,32
+Zala vármegye,Heves vármegye,Változó településen foglalkoztatott,21
+Zala vármegye,Jász-Nagykun-Szolnok vármegye,Más magyarországi településen foglalkoztatott,25
+Zala vármegye,Jász-Nagykun-Szolnok vármegye,Változó településen foglalkoztatott,33
+Zala vármegye,Komárom-Esztergom vármegye,Más magyarországi településen foglalkoztatott,99
+Zala vármegye,Komárom-Esztergom vármegye,Változó településen foglalkoztatott,50
+Zala vármegye,Külföld,Külföldön foglalkoztatott,5519
+Zala vármegye,Nógrád vármegye,Más magyarországi településen foglalkoztatott,7
+Zala vármegye,Nógrád vármegye,Változó településen foglalkoztatott,8
+Zala vármegye,Pest vármegye,Más magyarországi településen foglalkoztatott,384
+Zala vármegye,Pest vármegye,Változó településen foglalkoztatott,256
+Zala vármegye,Somogy vármegye,Más magyarországi településen foglalkoztatott,947
+Zala vármegye,Somogy vármegye,Változó településen foglalkoztatott,259
+Zala vármegye,Szabolcs-Szatmár-Bereg vármegye,Más magyarországi településen foglalkoztatott,19
+Zala vármegye,Szabolcs-Szatmár-Bereg vármegye,Változó településen foglalkoztatott,16
+Zala vármegye,Tolna vármegye,Más magyarországi településen foglalkoztatott,20
+Zala vármegye,Tolna vármegye,Változó településen foglalkoztatott,13
+Zala vármegye,Vas vármegye,Más magyarországi településen foglalkoztatott,1872
+Zala vármegye,Vas vármegye,Változó településen foglalkoztatott,403
+Zala vármegye,Veszprém vármegye,Más magyarországi településen foglalkoztatott,1098
+Zala vármegye,Veszprém vármegye,Változó településen foglalkoztatott,268
+Zala vármegye,Zala vármegye,Lakóhely településén foglalkoztatott,57082
+Zala vármegye,Zala vármegye,Lakóhelyén foglalkoztatott,6965
+Zala vármegye,Zala vármegye,Más magyarországi településen foglalkoztatott,37638
+Zala vármegye,Zala vármegye,Változó településen foglalkoztatott,5000
