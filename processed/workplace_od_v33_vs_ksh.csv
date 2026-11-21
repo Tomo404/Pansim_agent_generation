@@ -1,0 +1,401 @@
+﻿residence_county,workplace_county,KSH_count,V32_count,V33_count,V33_minus_KSH
+Baranya vármegye,Baranya vármegye,149360,151521,151521,2161
+Baranya vármegye,Borsod-Abaúj-Zemplén vármegye,64,64,64,0
+Baranya vármegye,Budapest,4049,4566,4054,5
+Baranya vármegye,Bács-Kiskun vármegye,446,447,447,1
+Baranya vármegye,Békés vármegye,26,26,26,0
+Baranya vármegye,Csongrád-Csanád vármegye,163,164,163,0
+Baranya vármegye,Fejér vármegye,284,284,284,0
+Baranya vármegye,Győr-Moson-Sopron vármegye,377,1,37,-340
+Baranya vármegye,Hajdú-Bihar vármegye,63,63,63,0
+Baranya vármegye,Heves vármegye,90,90,90,0
+Baranya vármegye,Jász-Nagykun-Szolnok vármegye,67,67,67,0
+Baranya vármegye,Komárom-Esztergom vármegye,166,166,166,0
+Baranya vármegye,Nógrád vármegye,12,12,12,0
+Baranya vármegye,Pest vármegye,740,741,1279,539
+Baranya vármegye,Somogy vármegye,1370,1372,1372,2
+Baranya vármegye,Szabolcs-Szatmár-Bereg vármegye,27,27,27,0
+Baranya vármegye,Tolna vármegye,3135,3139,3139,4
+Baranya vármegye,Vas vármegye,136,1,13,-123
+Baranya vármegye,Veszprém vármegye,219,219,219,0
+Baranya vármegye,Zala vármegye,191,191,118,-73
+Borsod-Abaúj-Zemplén vármegye,Baranya vármegye,168,168,168,0
+Borsod-Abaúj-Zemplén vármegye,Borsod-Abaúj-Zemplén vármegye,240192,244919,244919,4727
+Borsod-Abaúj-Zemplén vármegye,Budapest,11387,11401,11402,15
+Borsod-Abaúj-Zemplén vármegye,Bács-Kiskun vármegye,307,307,307,0
+Borsod-Abaúj-Zemplén vármegye,Békés vármegye,87,87,87,0
+Borsod-Abaúj-Zemplén vármegye,Csongrád-Csanád vármegye,174,174,174,0
+Borsod-Abaúj-Zemplén vármegye,Fejér vármegye,435,436,436,1
+Borsod-Abaúj-Zemplén vármegye,Győr-Moson-Sopron vármegye,707,1,70,-637
+Borsod-Abaúj-Zemplén vármegye,Hajdú-Bihar vármegye,1719,1721,1721,2
+Borsod-Abaúj-Zemplén vármegye,Heves vármegye,5372,5379,5379,7
+Borsod-Abaúj-Zemplén vármegye,Jász-Nagykun-Szolnok vármegye,342,343,342,0
+Borsod-Abaúj-Zemplén vármegye,Komárom-Esztergom vármegye,459,460,460,1
+Borsod-Abaúj-Zemplén vármegye,Nógrád vármegye,198,198,198,0
+Borsod-Abaúj-Zemplén vármegye,Pest vármegye,2488,3427,3356,868
+Borsod-Abaúj-Zemplén vármegye,Somogy vármegye,147,147,147,0
+Borsod-Abaúj-Zemplén vármegye,Szabolcs-Szatmár-Bereg vármegye,1300,1302,1302,2
+Borsod-Abaúj-Zemplén vármegye,Tolna vármegye,86,86,86,0
+Borsod-Abaúj-Zemplén vármegye,Vas vármegye,123,1,12,-111
+Borsod-Abaúj-Zemplén vármegye,Veszprém vármegye,258,258,258,0
+Borsod-Abaúj-Zemplén vármegye,Zala vármegye,127,21,12,-115
+Budapest,Baranya vármegye,746,696,696,-50
+Budapest,Borsod-Abaúj-Zemplén vármegye,1170,646,693,-477
+Budapest,Budapest,819961,818769,818769,-1192
+Budapest,Bács-Kiskun vármegye,1343,1252,1252,-91
+Budapest,Békés vármegye,407,379,379,-28
+Budapest,Csongrád-Csanád vármegye,752,701,701,-51
+Budapest,Fejér vármegye,3403,3173,3172,-231
+Budapest,Győr-Moson-Sopron vármegye,1273,1,118,-1155
+Budapest,Hajdú-Bihar vármegye,776,724,724,-52
+Budapest,Heves vármegye,1529,1425,1425,-104
+Budapest,Jász-Nagykun-Szolnok vármegye,915,853,853,-62
+Budapest,Komárom-Esztergom vármegye,2025,1888,1888,-137
+Budapest,Nógrád vármegye,586,546,546,-40
+Budapest,Pest vármegye,61880,60225,60386,-1494
+Budapest,Somogy vármegye,935,872,816,-119
+Budapest,Szabolcs-Szatmár-Bereg vármegye,635,592,592,-43
+Budapest,Tolna vármegye,447,417,417,-30
+Budapest,Vas vármegye,436,1,40,-396
+Budapest,Veszprém vármegye,1395,1300,945,-450
+Budapest,Zala vármegye,534,1,49,-485
+Bács-Kiskun vármegye,Baranya vármegye,547,431,530,-17
+Bács-Kiskun vármegye,Borsod-Abaúj-Zemplén vármegye,120,116,116,-4
+Bács-Kiskun vármegye,Budapest,9812,9824,9824,12
+Bács-Kiskun vármegye,Bács-Kiskun vármegye,206595,209975,209975,3380
+Bács-Kiskun vármegye,Békés vármegye,161,156,156,-5
+Bács-Kiskun vármegye,Csongrád-Csanád vármegye,3364,3368,3368,4
+Bács-Kiskun vármegye,Fejér vármegye,2238,2241,2241,3
+Bács-Kiskun vármegye,Győr-Moson-Sopron vármegye,350,1,33,-317
+Bács-Kiskun vármegye,Hajdú-Bihar vármegye,131,131,130,-1
+Bács-Kiskun vármegye,Heves vármegye,120,120,120,0
+Bács-Kiskun vármegye,Jász-Nagykun-Szolnok vármegye,671,672,670,-1
+Bács-Kiskun vármegye,Komárom-Esztergom vármegye,286,277,277,-9
+Bács-Kiskun vármegye,Nógrád vármegye,58,56,56,-2
+Bács-Kiskun vármegye,Pest vármegye,4983,4989,4989,6
+Bács-Kiskun vármegye,Somogy vármegye,217,210,183,-34
+Bács-Kiskun vármegye,Szabolcs-Szatmár-Bereg vármegye,67,67,65,-2
+Bács-Kiskun vármegye,Tolna vármegye,1503,1455,1455,-48
+Bács-Kiskun vármegye,Vas vármegye,68,1,6,-62
+Bács-Kiskun vármegye,Veszprém vármegye,243,137,23,-220
+Bács-Kiskun vármegye,Zala vármegye,116,1,11,-105
+Békés vármegye,Baranya vármegye,88,88,88,0
+Békés vármegye,Borsod-Abaúj-Zemplén vármegye,112,112,112,0
+Békés vármegye,Budapest,5079,5085,5086,7
+Békés vármegye,Bács-Kiskun vármegye,706,707,707,1
+Békés vármegye,Békés vármegye,129213,131192,131192,1979
+Békés vármegye,Csongrád-Csanád vármegye,4308,4313,4314,6
+Békés vármegye,Fejér vármegye,166,166,166,0
+Békés vármegye,Győr-Moson-Sopron vármegye,416,1,41,-375
+Békés vármegye,Hajdú-Bihar vármegye,689,690,690,1
+Békés vármegye,Heves vármegye,119,119,119,0
+Békés vármegye,Jász-Nagykun-Szolnok vármegye,1278,1279,1280,2
+Békés vármegye,Komárom-Esztergom vármegye,236,236,236,0
+Békés vármegye,Nógrád vármegye,34,34,34,0
+Békés vármegye,Pest vármegye,1216,1657,1664,448
+Békés vármegye,Somogy vármegye,101,101,101,0
+Békés vármegye,Szabolcs-Szatmár-Bereg vármegye,67,67,67,0
+Békés vármegye,Tolna vármegye,42,42,42,0
+Békés vármegye,Vas vármegye,68,1,6,-62
+Békés vármegye,Veszprém vármegye,188,187,188,0
+Békés vármegye,Zala vármegye,62,62,6,-56
+Csongrád-Csanád vármegye,Baranya vármegye,175,158,158,-17
+Csongrád-Csanád vármegye,Borsod-Abaúj-Zemplén vármegye,100,90,90,-10
+Csongrád-Csanád vármegye,Budapest,5213,4990,5132,-81
+Csongrád-Csanád vármegye,Bács-Kiskun vármegye,3137,2832,2832,-305
+Csongrád-Csanád vármegye,Békés vármegye,1481,1337,1337,-144
+Csongrád-Csanád vármegye,Csongrád-Csanád vármegye,174597,177064,177064,2467
+Csongrád-Csanád vármegye,Fejér vármegye,179,162,162,-17
+Csongrád-Csanád vármegye,Győr-Moson-Sopron vármegye,257,1,23,-234
+Csongrád-Csanád vármegye,Hajdú-Bihar vármegye,143,129,129,-14
+Csongrád-Csanád vármegye,Heves vármegye,84,76,76,-8
+Csongrád-Csanád vármegye,Jász-Nagykun-Szolnok vármegye,319,288,288,-31
+Csongrád-Csanád vármegye,Komárom-Esztergom vármegye,174,157,157,-17
+Csongrád-Csanád vármegye,Nógrád vármegye,22,20,20,-2
+Csongrád-Csanád vármegye,Pest vármegye,1187,1188,1072,-115
+Csongrád-Csanád vármegye,Somogy vármegye,133,120,19,-114
+Csongrád-Csanád vármegye,Szabolcs-Szatmár-Bereg vármegye,54,49,49,-5
+Csongrád-Csanád vármegye,Tolna vármegye,75,24,68,-7
+Csongrád-Csanád vármegye,Vas vármegye,64,1,5,-59
+Csongrád-Csanád vármegye,Veszprém vármegye,191,172,172,-19
+Csongrád-Csanád vármegye,Zala vármegye,77,1,6,-71
+Fejér vármegye,Baranya vármegye,269,258,258,-11
+Fejér vármegye,Borsod-Abaúj-Zemplén vármegye,131,126,126,-5
+Fejér vármegye,Budapest,21947,21975,21974,27
+Fejér vármegye,Bács-Kiskun vármegye,644,645,641,-3
+Fejér vármegye,Békés vármegye,59,57,57,-2
+Fejér vármegye,Csongrád-Csanád vármegye,143,143,143,0
+Fejér vármegye,Fejér vármegye,163820,166240,166240,2420
+Fejér vármegye,Győr-Moson-Sopron vármegye,713,1,68,-645
+Fejér vármegye,Hajdú-Bihar vármegye,102,102,102,0
+Fejér vármegye,Heves vármegye,90,90,90,0
+Fejér vármegye,Jász-Nagykun-Szolnok vármegye,97,97,97,0
+Fejér vármegye,Komárom-Esztergom vármegye,2814,2700,2700,-114
+Fejér vármegye,Nógrád vármegye,48,46,46,-2
+Fejér vármegye,Pest vármegye,12358,12373,12373,15
+Fejér vármegye,Somogy vármegye,1460,1401,1401,-59
+Fejér vármegye,Szabolcs-Szatmár-Bereg vármegye,90,90,90,0
+Fejér vármegye,Tolna vármegye,1464,1136,982,-482
+Fejér vármegye,Vas vármegye,98,1,9,-89
+Fejér vármegye,Veszprém vármegye,2197,1790,1863,-334
+Fejér vármegye,Zala vármegye,128,1,12,-116
+Győr-Moson-Sopron vármegye,Baranya vármegye,124,254,254,130
+Győr-Moson-Sopron vármegye,Borsod-Abaúj-Zemplén vármegye,119,119,244,125
+Győr-Moson-Sopron vármegye,Budapest,5178,12879,10607,5429
+Győr-Moson-Sopron vármegye,Bács-Kiskun vármegye,112,229,229,117
+Győr-Moson-Sopron vármegye,Békés vármegye,31,64,64,33
+Győr-Moson-Sopron vármegye,Csongrád-Csanád vármegye,69,141,141,72
+Győr-Moson-Sopron vármegye,Fejér vármegye,322,659,660,338
+Győr-Moson-Sopron vármegye,Győr-Moson-Sopron vármegye,201721,216636,216636,14915
+Győr-Moson-Sopron vármegye,Hajdú-Bihar vármegye,77,158,158,81
+Győr-Moson-Sopron vármegye,Heves vármegye,74,152,152,78
+Győr-Moson-Sopron vármegye,Jász-Nagykun-Szolnok vármegye,77,158,158,81
+Győr-Moson-Sopron vármegye,Komárom-Esztergom vármegye,2236,4580,4580,2344
+Győr-Moson-Sopron vármegye,Nógrád vármegye,26,53,53,27
+Győr-Moson-Sopron vármegye,Pest vármegye,881,1805,4131,3250
+Győr-Moson-Sopron vármegye,Somogy vármegye,124,124,254,130
+Győr-Moson-Sopron vármegye,Szabolcs-Szatmár-Bereg vármegye,80,164,164,84
+Győr-Moson-Sopron vármegye,Tolna vármegye,64,64,131,67
+Győr-Moson-Sopron vármegye,Vas vármegye,1361,1363,638,-723
+Győr-Moson-Sopron vármegye,Veszprém vármegye,1158,2020,2368,1210
+Győr-Moson-Sopron vármegye,Zala vármegye,165,165,165,0
+Hajdú-Bihar vármegye,Baranya vármegye,138,134,138,0
+Hajdú-Bihar vármegye,Borsod-Abaúj-Zemplén vármegye,4268,4145,4183,-85
+Hajdú-Bihar vármegye,Budapest,7127,7136,7136,9
+Hajdú-Bihar vármegye,Bács-Kiskun vármegye,350,351,350,0
+Hajdú-Bihar vármegye,Békés vármegye,1566,1568,1568,2
+Hajdú-Bihar vármegye,Csongrád-Csanád vármegye,247,247,247,0
+Hajdú-Bihar vármegye,Fejér vármegye,235,235,235,0
+Hajdú-Bihar vármegye,Győr-Moson-Sopron vármegye,454,1,44,-410
+Hajdú-Bihar vármegye,Hajdú-Bihar vármegye,213840,216877,216877,3037
+Hajdú-Bihar vármegye,Heves vármegye,448,449,449,1
+Hajdú-Bihar vármegye,Jász-Nagykun-Szolnok vármegye,1298,1300,1300,2
+Hajdú-Bihar vármegye,Komárom-Esztergom vármegye,347,337,348,1
+Hajdú-Bihar vármegye,Nógrád vármegye,97,97,97,0
+Hajdú-Bihar vármegye,Pest vármegye,1701,1819,1703,2
+Hajdú-Bihar vármegye,Somogy vármegye,109,106,109,0
+Hajdú-Bihar vármegye,Szabolcs-Szatmár-Bereg vármegye,3867,3872,3872,5
+Hajdú-Bihar vármegye,Tolna vármegye,55,53,55,0
+Hajdú-Bihar vármegye,Vas vármegye,96,1,9,-87
+Hajdú-Bihar vármegye,Veszprém vármegye,227,220,220,-7
+Hajdú-Bihar vármegye,Zala vármegye,97,1,9,-88
+Heves vármegye,Baranya vármegye,56,53,53,-3
+Heves vármegye,Borsod-Abaúj-Zemplén vármegye,1759,1426,1519,-240
+Heves vármegye,Budapest,10794,10808,10705,-89
+Heves vármegye,Bács-Kiskun vármegye,138,132,132,-6
+Heves vármegye,Békés vármegye,55,52,53,-2
+Heves vármegye,Csongrád-Csanád vármegye,90,86,86,-4
+Heves vármegye,Fejér vármegye,131,125,125,-6
+Heves vármegye,Győr-Moson-Sopron vármegye,196,1,18,-178
+Heves vármegye,Hajdú-Bihar vármegye,340,324,324,-16
+Heves vármegye,Heves vármegye,109787,111500,111500,1713
+Heves vármegye,Jász-Nagykun-Szolnok vármegye,4463,4255,4255,-208
+Heves vármegye,Komárom-Esztergom vármegye,150,143,143,-7
+Heves vármegye,Nógrád vármegye,759,724,724,-35
+Heves vármegye,Pest vármegye,3633,3487,3637,4
+Heves vármegye,Somogy vármegye,53,50,5,-48
+Heves vármegye,Szabolcs-Szatmár-Bereg vármegye,83,79,79,-4
+Heves vármegye,Tolna vármegye,28,27,2,-26
+Heves vármegye,Vas vármegye,58,1,5,-53
+Heves vármegye,Veszprém vármegye,110,105,10,-100
+Heves vármegye,Zala vármegye,52,1,4,-48
+Jász-Nagykun-Szolnok vármegye,Baranya vármegye,105,102,102,-3
+Jász-Nagykun-Szolnok vármegye,Borsod-Abaúj-Zemplén vármegye,368,359,359,-9
+Jász-Nagykun-Szolnok vármegye,Budapest,10587,10600,10600,13
+Jász-Nagykun-Szolnok vármegye,Bács-Kiskun vármegye,2908,2912,2912,4
+Jász-Nagykun-Szolnok vármegye,Békés vármegye,822,801,801,-21
+Jász-Nagykun-Szolnok vármegye,Csongrád-Csanád vármegye,961,962,962,1
+Jász-Nagykun-Szolnok vármegye,Fejér vármegye,276,276,276,0
+Jász-Nagykun-Szolnok vármegye,Győr-Moson-Sopron vármegye,374,1,36,-338
+Jász-Nagykun-Szolnok vármegye,Hajdú-Bihar vármegye,1047,1049,1048,1
+Jász-Nagykun-Szolnok vármegye,Heves vármegye,2501,2504,2504,3
+Jász-Nagykun-Szolnok vármegye,Jász-Nagykun-Szolnok vármegye,135004,137314,137314,2310
+Jász-Nagykun-Szolnok vármegye,Komárom-Esztergom vármegye,296,288,288,-8
+Jász-Nagykun-Szolnok vármegye,Nógrád vármegye,105,103,103,-2
+Jász-Nagykun-Szolnok vármegye,Pest vármegye,5258,5265,5265,7
+Jász-Nagykun-Szolnok vármegye,Somogy vármegye,111,108,10,-101
+Jász-Nagykun-Szolnok vármegye,Szabolcs-Szatmár-Bereg vármegye,137,137,137,0
+Jász-Nagykun-Szolnok vármegye,Tolna vármegye,70,68,6,-64
+Jász-Nagykun-Szolnok vármegye,Vas vármegye,76,1,7,-69
+Jász-Nagykun-Szolnok vármegye,Veszprém vármegye,191,49,164,-27
+Jász-Nagykun-Szolnok vármegye,Zala vármegye,63,1,6,-57
+Komárom-Esztergom vármegye,Baranya vármegye,87,87,88,1
+Komárom-Esztergom vármegye,Borsod-Abaúj-Zemplén vármegye,96,96,96,0
+Komárom-Esztergom vármegye,Budapest,10790,10804,13672,2882
+Komárom-Esztergom vármegye,Bács-Kiskun vármegye,98,98,98,0
+Komárom-Esztergom vármegye,Békés vármegye,32,32,32,0
+Komárom-Esztergom vármegye,Csongrád-Csanád vármegye,74,75,74,0
+Komárom-Esztergom vármegye,Fejér vármegye,3326,3330,3330,4
+Komárom-Esztergom vármegye,Győr-Moson-Sopron vármegye,4656,1920,1858,-2798
+Komárom-Esztergom vármegye,Hajdú-Bihar vármegye,67,67,67,0
+Komárom-Esztergom vármegye,Heves vármegye,74,74,74,0
+Komárom-Esztergom vármegye,Jász-Nagykun-Szolnok vármegye,49,49,49,0
+Komárom-Esztergom vármegye,Komárom-Esztergom vármegye,127161,127821,127821,660
+Komárom-Esztergom vármegye,Nógrád vármegye,38,38,38,0
+Komárom-Esztergom vármegye,Pest vármegye,5944,8763,5952,8
+Komárom-Esztergom vármegye,Somogy vármegye,115,115,115,0
+Komárom-Esztergom vármegye,Szabolcs-Szatmár-Bereg vármegye,47,47,47,0
+Komárom-Esztergom vármegye,Tolna vármegye,51,51,51,0
+Komárom-Esztergom vármegye,Vas vármegye,71,1,7,-64
+Komárom-Esztergom vármegye,Veszprém vármegye,293,294,293,0
+Komárom-Esztergom vármegye,Zala vármegye,77,77,77,0
+Nógrád vármegye,Baranya vármegye,37,37,37,0
+Nógrád vármegye,Borsod-Abaúj-Zemplén vármegye,173,174,173,0
+Nógrád vármegye,Budapest,9582,9937,9925,343
+Nógrád vármegye,Bács-Kiskun vármegye,85,85,85,0
+Nógrád vármegye,Békés vármegye,17,17,17,0
+Nógrád vármegye,Csongrád-Csanád vármegye,58,58,58,0
+Nógrád vármegye,Fejér vármegye,161,161,161,0
+Nógrád vármegye,Győr-Moson-Sopron vármegye,153,1,15,-138
+Nógrád vármegye,Hajdú-Bihar vármegye,73,73,73,0
+Nógrád vármegye,Heves vármegye,3645,3694,3691,46
+Nógrád vármegye,Jász-Nagykun-Szolnok vármegye,535,536,536,1
+Nógrád vármegye,Komárom-Esztergom vármegye,148,148,148,0
+Nógrád vármegye,Nógrád vármegye,56882,57761,57761,879
+Nógrád vármegye,Pest vármegye,7760,7864,7864,104
+Nógrád vármegye,Somogy vármegye,61,61,61,0
+Nógrád vármegye,Szabolcs-Szatmár-Bereg vármegye,29,29,29,0
+Nógrád vármegye,Tolna vármegye,11,11,11,0
+Nógrád vármegye,Vas vármegye,36,1,3,-33
+Nógrád vármegye,Veszprém vármegye,105,105,105,0
+Nógrád vármegye,Zala vármegye,19,1,1,-18
+Pest vármegye,Baranya vármegye,447,441,332,-115
+Pest vármegye,Borsod-Abaúj-Zemplén vármegye,720,441,71,-649
+Pest vármegye,Budapest,257369,257692,257692,323
+Pest vármegye,Bács-Kiskun vármegye,7133,7040,7040,-93
+Pest vármegye,Békés vármegye,263,260,258,-5
+Pest vármegye,Csongrád-Csanád vármegye,601,593,593,-8
+Pest vármegye,Fejér vármegye,3118,3077,3077,-41
+Pest vármegye,Győr-Moson-Sopron vármegye,850,1,83,-767
+Pest vármegye,Hajdú-Bihar vármegye,493,487,487,-6
+Pest vármegye,Heves vármegye,2756,2720,2724,-32
+Pest vármegye,Jász-Nagykun-Szolnok vármegye,5473,5402,5402,-71
+Pest vármegye,Komárom-Esztergom vármegye,2227,1379,1345,-882
+Pest vármegye,Nógrád vármegye,1112,1098,1097,-15
+Pest vármegye,Pest vármegye,385947,388115,388115,2168
+Pest vármegye,Somogy vármegye,498,142,324,-174
+Pest vármegye,Szabolcs-Szatmár-Bereg vármegye,329,325,325,-4
+Pest vármegye,Tolna vármegye,278,149,274,-4
+Pest vármegye,Vas vármegye,259,1,25,-234
+Pest vármegye,Veszprém vármegye,730,1,72,-658
+Pest vármegye,Zala vármegye,301,1,29,-272
+Somogy vármegye,Baranya vármegye,1623,1623,1625,2
+Somogy vármegye,Borsod-Abaúj-Zemplén vármegye,82,82,82,0
+Somogy vármegye,Budapest,5404,6314,6060,656
+Somogy vármegye,Bács-Kiskun vármegye,178,178,178,0
+Somogy vármegye,Békés vármegye,43,43,43,0
+Somogy vármegye,Csongrád-Csanád vármegye,89,89,89,0
+Somogy vármegye,Fejér vármegye,1148,1149,1150,2
+Somogy vármegye,Győr-Moson-Sopron vármegye,560,1,55,-505
+Somogy vármegye,Hajdú-Bihar vármegye,86,86,86,0
+Somogy vármegye,Heves vármegye,97,97,97,0
+Somogy vármegye,Jász-Nagykun-Szolnok vármegye,75,75,75,0
+Somogy vármegye,Komárom-Esztergom vármegye,227,227,227,0
+Somogy vármegye,Nógrád vármegye,27,27,27,0
+Somogy vármegye,Pest vármegye,1062,1063,1228,166
+Somogy vármegye,Somogy vármegye,110677,112774,112774,2097
+Somogy vármegye,Szabolcs-Szatmár-Bereg vármegye,48,48,48,0
+Somogy vármegye,Tolna vármegye,761,761,762,1
+Somogy vármegye,Vas vármegye,224,1,22,-202
+Somogy vármegye,Veszprém vármegye,903,903,904,1
+Somogy vármegye,Zala vármegye,2944,2809,2818,-126
+Szabolcs-Szatmár-Bereg vármegye,Baranya vármegye,84,83,84,0
+Szabolcs-Szatmár-Bereg vármegye,Borsod-Abaúj-Zemplén vármegye,2532,2493,2535,3
+Szabolcs-Szatmár-Bereg vármegye,Budapest,9607,9619,9619,12
+Szabolcs-Szatmár-Bereg vármegye,Bács-Kiskun vármegye,281,281,282,1
+Szabolcs-Szatmár-Bereg vármegye,Békés vármegye,92,92,92,0
+Szabolcs-Szatmár-Bereg vármegye,Csongrád-Csanád vármegye,174,174,175,1
+Szabolcs-Szatmár-Bereg vármegye,Fejér vármegye,338,339,338,0
+Szabolcs-Szatmár-Bereg vármegye,Győr-Moson-Sopron vármegye,611,1,60,-551
+Szabolcs-Szatmár-Bereg vármegye,Hajdú-Bihar vármegye,7199,7208,7208,9
+Szabolcs-Szatmár-Bereg vármegye,Heves vármegye,287,288,287,0
+Szabolcs-Szatmár-Bereg vármegye,Jász-Nagykun-Szolnok vármegye,238,238,238,0
+Szabolcs-Szatmár-Bereg vármegye,Komárom-Esztergom vármegye,466,459,467,1
+Szabolcs-Szatmár-Bereg vármegye,Nógrád vármegye,83,83,83,0
+Szabolcs-Szatmár-Bereg vármegye,Pest vármegye,2507,3025,2881,374
+Szabolcs-Szatmár-Bereg vármegye,Somogy vármegye,167,164,167,0
+Szabolcs-Szatmár-Bereg vármegye,Szabolcs-Szatmár-Bereg vármegye,207508,210354,210354,2846
+Szabolcs-Szatmár-Bereg vármegye,Tolna vármegye,68,67,68,0
+Szabolcs-Szatmár-Bereg vármegye,Vas vármegye,139,1,13,-126
+Szabolcs-Szatmár-Bereg vármegye,Veszprém vármegye,372,366,373,1
+Szabolcs-Szatmár-Bereg vármegye,Zala vármegye,127,1,12,-115
+Tolna vármegye,Baranya vármegye,2361,2364,2364,3
+Tolna vármegye,Borsod-Abaúj-Zemplén vármegye,39,39,39,0
+Tolna vármegye,Budapest,3163,3167,3167,4
+Tolna vármegye,Bács-Kiskun vármegye,786,787,787,1
+Tolna vármegye,Békés vármegye,26,26,26,0
+Tolna vármegye,Csongrád-Csanád vármegye,122,122,122,0
+Tolna vármegye,Fejér vármegye,3121,3125,3125,4
+Tolna vármegye,Győr-Moson-Sopron vármegye,205,1,20,-185
+Tolna vármegye,Hajdú-Bihar vármegye,45,45,45,0
+Tolna vármegye,Heves vármegye,41,41,41,0
+Tolna vármegye,Jász-Nagykun-Szolnok vármegye,50,50,50,0
+Tolna vármegye,Komárom-Esztergom vármegye,130,130,130,0
+Tolna vármegye,Nógrád vármegye,12,12,12,0
+Tolna vármegye,Pest vármegye,777,1030,1008,231
+Tolna vármegye,Somogy vármegye,2019,2022,2022,3
+Tolna vármegye,Szabolcs-Szatmár-Bereg vármegye,14,14,14,0
+Tolna vármegye,Tolna vármegye,79108,80874,80874,1766
+Tolna vármegye,Vas vármegye,49,1,4,-45
+Tolna vármegye,Veszprém vármegye,371,372,372,1
+Tolna vármegye,Zala vármegye,79,79,79,0
+Vas vármegye,Baranya vármegye,86,120,120,34
+Vas vármegye,Borsod-Abaúj-Zemplén vármegye,60,60,84,24
+Vas vármegye,Budapest,2446,5474,5501,3055
+Vas vármegye,Bács-Kiskun vármegye,70,98,98,28
+Vas vármegye,Békés vármegye,11,15,15,4
+Vas vármegye,Csongrád-Csanád vármegye,42,59,59,17
+Vas vármegye,Fejér vármegye,122,171,171,49
+Vas vármegye,Győr-Moson-Sopron vármegye,2925,2929,2929,4
+Vas vármegye,Hajdú-Bihar vármegye,38,53,53,15
+Vas vármegye,Heves vármegye,23,32,32,9
+Vas vármegye,Jász-Nagykun-Szolnok vármegye,27,38,38,11
+Vas vármegye,Komárom-Esztergom vármegye,129,181,180,51
+Vas vármegye,Nógrád vármegye,3,4,4,1
+Vas vármegye,Pest vármegye,411,575,575,164
+Vas vármegye,Somogy vármegye,83,116,116,33
+Vas vármegye,Szabolcs-Szatmár-Bereg vármegye,24,33,34,10
+Vas vármegye,Tolna vármegye,21,21,21,0
+Vas vármegye,Vas vármegye,106370,113117,113117,6747
+Vas vármegye,Veszprém vármegye,891,963,912,21
+Vas vármegye,Zala vármegye,1444,1446,1446,2
+Veszprém vármegye,Baranya vármegye,148,146,148,0
+Veszprém vármegye,Borsod-Abaúj-Zemplén vármegye,126,124,126,0
+Veszprém vármegye,Budapest,6151,9279,9369,3218
+Veszprém vármegye,Bács-Kiskun vármegye,125,125,125,0
+Veszprém vármegye,Békés vármegye,42,42,42,0
+Veszprém vármegye,Csongrád-Csanád vármegye,91,91,91,0
+Veszprém vármegye,Fejér vármegye,5516,5523,5523,7
+Veszprém vármegye,Győr-Moson-Sopron vármegye,4682,2973,2745,-1937
+Veszprém vármegye,Hajdú-Bihar vármegye,65,65,65,0
+Veszprém vármegye,Heves vármegye,101,101,101,0
+Veszprém vármegye,Jász-Nagykun-Szolnok vármegye,79,79,79,0
+Veszprém vármegye,Komárom-Esztergom vármegye,505,496,506,1
+Veszprém vármegye,Nógrád vármegye,19,19,19,0
+Veszprém vármegye,Pest vármegye,1159,1228,1161,2
+Veszprém vármegye,Somogy vármegye,461,453,462,1
+Veszprém vármegye,Szabolcs-Szatmár-Bereg vármegye,61,61,61,0
+Veszprém vármegye,Tolna vármegye,71,70,71,0
+Veszprém vármegye,Vas vármegye,1858,1,182,-1676
+Veszprém vármegye,Veszprém vármegye,140213,142835,142835,2622
+Veszprém vármegye,Zala vármegye,1302,1278,1278,-24
+Zala vármegye,Baranya vármegye,311,311,311,0
+Zala vármegye,Borsod-Abaúj-Zemplén vármegye,66,66,66,0
+Zala vármegye,Budapest,3780,5539,5564,1784
+Zala vármegye,Bács-Kiskun vármegye,105,105,109,4
+Zala vármegye,Békés vármegye,28,28,29,1
+Zala vármegye,Csongrád-Csanád vármegye,121,126,126,5
+Zala vármegye,Fejér vármegye,200,208,208,8
+Zala vármegye,Győr-Moson-Sopron vármegye,687,688,272,-415
+Zala vármegye,Hajdú-Bihar vármegye,47,47,49,2
+Zala vármegye,Heves vármegye,53,55,55,2
+Zala vármegye,Jász-Nagykun-Szolnok vármegye,58,58,60,2
+Zala vármegye,Komárom-Esztergom vármegye,149,149,155,6
+Zala vármegye,Nógrád vármegye,15,15,16,1
+Zala vármegye,Pest vármegye,640,665,665,25
+Zala vármegye,Somogy vármegye,1206,1207,1207,1
+Zala vármegye,Szabolcs-Szatmár-Bereg vármegye,35,35,36,1
+Zala vármegye,Tolna vármegye,33,33,33,0
+Zala vármegye,Vas vármegye,2275,902,1276,-999
+Zala vármegye,Veszprém vármegye,1366,1368,1368,2
+Zala vármegye,Zala vármegye,106685,109996,109996,3311
